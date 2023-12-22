@@ -1,0 +1,1138 @@
+{
+  "Avantages": {
+    "avantages_définition_épargne_retraite_futuris_axa": {
+      "Questions": [
+        "Qu'est-ce qu'une épargne Retraite Futuris ?",
+        "C'est quoi l'épargne Retraite Futuris ?",
+        "C'est quoi Futuris ?",
+        "C'est quoi l'épargne Retraite ?",
+        "C'est qui Futuris ?",
+        "Futuris",
+        "Qu'est-ce qu'une épargne Retraite AXA ?",
+        "C'est quoi l'épargne Retraite AXA ?",
+        "C'est quoi Futuris AXA ?",
+        "C'est quoi l'épargne AXA ?",
+        "C'est qui Retraite AXA ?",
+        "Retraite AXA",
+        "Futuris AXA",
+        "AXA Futuris "
+      ],
+      "Response": "C'est une solution d’épargne retraite AXA non obligatoire qui vous permet de constituer progressivement un capital retraite."
+    },
+    "avantages_obligation_futuris": {
+      "Questions": [
+        "Est-ce que futuris est obligatoire ?",
+        "Futuris est-elle obligatoire ?",
+        "Futuris obligatoire ?",
+        "Epargne retraite est-elle obligatoire ?",
+        "Epargne retraite obligatoire ?",
+        "AXA est-elle obligatoire ?",
+        "AXA obligatoire ?"
+      ],
+      "Response": "Non"
+    },
+    "avantages_part_patronale": {
+      "Questions": [
+        "Existe-il une part patronale dans mon contrat Futuris ?",
+        "Il y a-t-il une part patronale dans Futuris ?",
+        "Existe-il une part patronale dans mon épargne retraite ?",
+        "Il y a-t-il une part patronale dans mon épargne retraite  ?",
+        "Existe-il une part patronale dans mon contrat AXA Futuris ?",
+        "Il y a-t-il une part patronale dans AXA épargne ?",
+        "Existe-il une part patronale dans ma retraite AXA ?",
+        "Il y a-t-il une part patronale dans mon épargne AXA  ?",
+        "Existe-il une part patronale dans mon contrat épargne AXA ?"
+      ],
+      "Response": "Non"
+    },
+    "avantages_montant_versement": {
+      "Questions": [
+        "Quel est le montant minimum de versement ?",
+        "C'est quoi le minimum pour le versement ?",
+        "C'est quoi le versement minimum ?",
+        "Combien on peut verser au minimum ?",
+        "Combien on peut donner pour Futuris ?",
+        "Combien on peut mettre sur Futuris ?",
+        "C'est combien le versement pour Futuris ?",
+        "C'est quoi le minimum pour le Futuris ?",
+        "C'est quoi le minimum Futuris ?",
+        "Combien on peut au minimum Futuris ?",
+        "Combien on peut donner à Futuris ?",
+        "Combien on peut mettre ?",
+        "C'est combien le montant ?",
+        "Combien on peut donner pour AXA ?",
+        "Combien on peut mettre sur AXA ?",
+        "C'est combien le versement pour AXA?",
+        "C'est quoi le minimum pour le AXA ?",
+        "C'est quoi le minimum AXA ?",
+        "Combien on peut au minimum AXA?",
+        "Combien on peut donner à AXA ?",
+        "Combien on peut donner pour Epargne retraite ?",
+        "Combien on peut mettre sur Epargne retraite ?",
+        "C'est combien le versement pour Epargne retraite?",
+        "C'est quoi le minimum pour le Epargne retraite ?",
+        "C'est quoi le minimum Epargne retraite ?",
+        "Combien on peut au minimum Epargne retraite?",
+        "Combien on peut donner à Epargne retraite ?",
+        "Combien on peut donner pour la retraite AXA ?",
+        "Combien on peut mettre sur la retraite AXA ?",
+        "C'est combien le versement pour la retraite AXA?",
+        "C'est quoi le minimum pour la retraite AXA ?",
+        "C'est quoi le minimum retraite AXA ?",
+        "Combien on peut au minimum retraite AXA?",
+        "Combien on peut donner à la retraite AXA ?"
+      ],
+      "Response": "A partir de 200 MAD/mois"
+    },
+    "avantages_périodicité_versements": {
+      "Questions": [
+        "Quelle est la périodicité des versements ?",
+        "Quelle est la périodicité ?",
+        "Quelle est la période pour le versement ?",
+        "c'est quoi la période pour le versement"
+      ],
+      "Response": "Mensuelle"
+    },
+    "avantages_périodicité_versements_mensuelle": {
+      "Questions": [
+        "Est-ce que le versement est mensuel pour Futuris ?",
+        "Est-ce que le versement est mensuel pour AXA ?",
+        "Est-ce que le versement est mensuel pour l'epargne retraite, ?",
+        "Est-ce que le versement est mensuel pour l'epargne Futuris ?",
+        "Est-ce que le versement est mensuel pour l'epargne AXA ?",
+        "Est-ce que le versement est mensuel pour la retraite Futuris ?",
+        "Est-ce que le versement est mensuel pour la retraite AXA ?"
+      ],
+      "Response": "oui"
+    },
+    "avantages_modalités_de_versement": {
+      "Questions": [
+        "Quelles sont ces modalités de versement ?",
+        "Quelles sont les modalités  ?",
+        "C'est quoi les modalités de versement ?",
+        "C'est quoi les modalités ?",
+        "Quelles sont ces modalités de versement Futuris?",
+        "Quelles sont les modalités Futuris  ?",
+        "C'est quoi les modalités de versement Futuris ?",
+        "C'est quoi les modalités Futuris ?",
+        "Quelles sont ces modalités de versement AXA ?",
+        "Quelles sont les modalités AXA  ?",
+        "C'est quoi les modalités de versement AXA ?",
+        "C'est quoi les modalités AXA ?",
+        "Quelles sont ces modalités de versement Epargne retraite ?",
+        "Quelles sont les modalités Epargne retraite  ?",
+        "C'est quoi les modalités de versement Epargne retraite ?",
+        "C'est quoi les modalités Epargne retraite ?",
+        "Quelles sont ces modalités de versement Epargne Futuris?",
+        "Quelles sont les modalités Epargne Futuris  ?",
+        "C'est quoi les modalités de versement Epargne Futuris ?",
+        "C'est quoi les modalités Epargne  Futuris?",
+        "Quelles sont ces modalités de versement Epargne AXA ?",
+        "Quelles sont les modalités Epargne AXA  ?",
+        "C'est quoi les modalités de versement Epargne AXA ?",
+        "C'est quoi les modalités Epargne AXA ?",
+        "Quelles sont ces modalités de versement retraite Futuris?",
+        "Quelles sont les modalités retraite Futuris  ?",
+        "C'est quoi les modalités de versement retraite Futuris ?",
+        "C'est quoi les modalités retraite Futuris ?",
+        "Quelles sont ces modalités de versement retraite AXA?",
+        "Quelles sont les modalités retraite AXA  ?",
+        "C'est quoi les modalités de versement retraite AXA ?",
+        "C'est quoi les modalités retraite AXA ?"
+      ],
+      "Response": "Les cotisations sont retenues par votre employeur sur le bulletin de paie."
+    },
+    "avantages_changement_de_montant_versement": {
+      "Questions": [
+        "Est-ce que je peux réviser le montant de mes versements ?",
+        "Est-ce que je peux changer le montant de mes versements ?",
+        "Est-ce que je peux modifier le montant de mes versements ?",
+        "Est-ce que je peux augmenter le montant de mes versements ?",
+        "Est-ce que je peux baissser le montant de mes versements ?",
+        "Est-ce que je peux diminuer le montant de mes versements ?",
+        "Est-ce que je peux réviser le montant de mes versements Futuris ?",
+        "Est-ce que je peux changer le montant de mes versements Futuris ?",
+        "Est-ce que je peux modifier le montant de mes versements Futuris ?",
+        "Est-ce que je peux augmenter le montant de mes versements Futuris ?",
+        "Est-ce que je peux baissser le montant de mes versements Futuris ?",
+        "Est-ce que je peux diminuer le montant de mes versements Futuris ?",
+        "Est-ce que je peux réviser le montant de mes versements AXA ?",
+        "Est-ce que je peux changer le montant de mes versements AXA ?",
+        "Est-ce que je peux modifier le montant de mes versements AXA ?",
+        "Est-ce que je peux augmenter le montant de mes versements AXA ?",
+        "Est-ce que je peux baissser le montant de mes versements AXA ?",
+        "Est-ce que je peux diminuer le montant de mes versements AXA ?",
+        "Est-ce que je peux réviser le montant de mes versements Epargne retraite ?",
+        "Est-ce que je peux changer le montant de mes versements Epargne retraite ?",
+        "Est-ce que je peux modifier le montant de mes versements Epargne retraite ?",
+        "Est-ce que je peux augmenter le montant de mes versements Epargne retraite ?",
+        "Est-ce que je peux baissser le montant de mes versements Epargne retraite ?",
+        "Est-ce que je peux diminuer le montant de mes versements Epargne retraite ?",
+        "Est-ce que je peux réviser le montant de mes versements Epargne Futuris ?",
+        "Est-ce que je peux changer le montant de mes versements Epargne Futuris ?",
+        "Est-ce que je peux modifier le montant de mes versements Epargne Futuris ?",
+        "Est-ce que je peux augmenter le montant de mes versements Epargne Futuris ?",
+        "Est-ce que je peux baissser le montant de mes versements Epargne Futuris ?",
+        "Est-ce que je peux diminuer le montant de mes versements Epargne Futuris ?",
+        "Est-ce que je peux réviser le montant de mes versements Epargne AXA ?",
+        "Est-ce que je peux changer le montant de mes versements Epargne AXA ?",
+        "Est-ce que je peux modifier le montant de mes versements Epargne AXA ?",
+        "Est-ce que je peux augmenter le montant de mes versements Epargne AXA ?",
+        "Est-ce que je peux baissser le montant de mes versements Epargne AXA ?",
+        "Est-ce que je peux diminuer le montant de mes versements Epargne AXA ?",
+        "Est-ce que je peux réviser le montant de mes versements retraite Futuris Epargne AXA ?",
+        "Est-ce que je peux changer le montant de mes versements retraite Futuris Epargne AXA ?",
+        "Est-ce que je peux modifier le montant de mes versements retraite Futuris Epargne AXA ?",
+        "Est-ce que je peux augmenter le montant de mes versements retraite Futuris Epargne AXA ?",
+        "Est-ce que je peux baissser le montant de mes versements retraite Futuris Epargne AXA ?",
+        "Est-ce que je peux diminuer le montant de mes versements retraite Futuris Epargne AXA ?",
+        "Est-ce que je peux réviser le montant de mes versements Epargne AXA ?",
+        "Est-ce que je peux changer le montant de mes versements Epargne AXA ?",
+        "Est-ce que je peux modifier le montant de mes versements Epargne AXA ?",
+        "Est-ce que je peux augmenter le montant de mes versements Epargne AXA ?",
+        "Est-ce que je peux baissser le montant de mes versements Epargne AXA ?",
+        "Est-ce que je peux diminuer le montant de mes versements Epargne AXA ?",
+        "Est-ce que je peux réviser le montant ?",
+        "Est-ce que je peux changer le montant ?",
+        "Est-ce que je peux modifier le montant ?",
+        "Est-ce que je peux augmenter le montant ?",
+        "Est-ce que je peux baissser le montant ?",
+        "Est-ce que je peux diminuer le montant ?"
+      ],
+      "Response": "Oui c'est possible. Vous pouvez réviser à chaque début du mois le montant de vos versements en informant la direction des Ressources Humaines."
+    },
+    "avantages_versement_exceptionnel": {
+      "Questions": [
+        "Est-ce que je peux bénéficier d'un versement exceptionnel ?",
+        "Est-ce que je peux effectuer d'un versement exceptionnel ?",
+        "Est-ce que je peux faire d'un versement exceptionnel ?",
+        "Est-ce qu'un versement exceptionnel est possible ?",
+        "Est-ce qu'un versement exceptionnel est accepté ?",
+        "Est-ce que je peux bénéficier d'un versement exceptionnel sur Futuris ?",
+        "Est-ce que je peux effectuer d'un versement exceptionnel sur Futuris  ?",
+        "Est-ce que je peux faire d'un versement exceptionnel sur Futuris  ?",
+        "Est-ce qu'un versement exceptionnel est possible sur Futuris ?",
+        "Est-ce qu'un versement exceptionnel est accepté sur Futuris  ?",
+        "Est-ce que je peux verser ma prime sur Futuris ?",
+        "Est-ce que je peux verser mon bonus sur Futuris ?",
+        "Est-ce que je peux bénéficier d'un versement exceptionnel sur l'épargne Futuris ?",
+        "Est-ce que je peux effectuer d'un versement exceptionnel sur l'épargne  Futuris  ?",
+        "Est-ce que je peux faire d'un versement exceptionnel sur l'épargne Futuris  ?",
+        "Est-ce qu'un versement exceptionnel est possible sur l'épargne  Futuris ?",
+        "Est-ce qu'un versement exceptionnel est accepté sur l'épargne  Futuris  ?",
+        "Est-ce que je peux verser ma prime sur l'épargne Futuris ?",
+        "Est-ce que je peux verser mon bonus sur l'épargne Futuris ?",
+        "Est-ce que je peux bénéficier d'un versement exceptionnel sur la retraite Futuris ?",
+        "Est-ce que je peux effectuer d'un versement exceptionnel sur la retraite Futuris  ?",
+        "Est-ce que je peux faire d'un versement exceptionnel sur la retraite Futuris  ?",
+        "Est-ce qu'un versement exceptionnel est possible sur la retraite Futuris ?",
+        "Est-ce qu'un versement exceptionnel est accepté sur la retraite Futuris  ?",
+        "Est-ce que je peux verser ma prime sur la retraite Futuris ?",
+        "Est-ce que je peux verser mon bonus sur la retraite Futuris ?",
+        "Est-ce que je peux bénéficier d'un versement exceptionnel sur l'épargne retraite ?",
+        "Est-ce que je peux effectuer d'un versement exceptionnel sur l'épargne retraite  ?",
+        "Est-ce que je peux faire d'un versement exceptionnel sur l'épargne retraite  ?",
+        "Est-ce qu'un versement exceptionnel est possible sur l'épargne retraite ?",
+        "Est-ce qu'un versement exceptionnel est accepté sur l'épargne retraite  ?",
+        "Est-ce que je peux verser ma prime sur l'épargne retraite ?",
+        "Est-ce que je peux verser mon bonus sur l'épargne retraite ?",
+        "Est-ce que je peux bénéficier d'un versement exceptionnel sur la retraite AXA ?",
+        "Est-ce que je peux effectuer d'un versement exceptionnel sur la retraite AXA  ?",
+        "Est-ce que je peux faire d'un versement exceptionnel sur la retraite AXA  ?",
+        "Est-ce qu'un versement exceptionnel est possible sur la retraite AXA ?",
+        "Est-ce qu'un versement exceptionnel est accepté sur la retraite AXA  ?",
+        "Est-ce que je peux verser ma prime sur la retraite AXA ?",
+        "Est-ce que je peux verser mon bonus sur la retraite AXA ?",
+        "Est-ce que je peux bénéficier d'un versement exceptionnel sur l'épargne AXA ?",
+        "Est-ce que je peux effectuer d'un versement exceptionnel sur l'épargne AXA  ?",
+        "Est-ce que je peux faire d'un versement exceptionnel sur l'épargne AXA  ?",
+        "Est-ce qu'un versement exceptionnel est possible sur l'épargne AXA ?",
+        "Est-ce qu'un versement exceptionnel est accepté sur l'épargne AXA  ?",
+        "Est-ce que je peux verser ma prime sur l'épargne AXA ?",
+        "Est-ce que je peux verser mon bonus sur l'épargne AXA ?"
+      ],
+      "Response": "Oui c'est possible d'effectuer des versements à tout moment (PTV, Prime exceptionnelle, bonus …)."
+    },
+    "avantages_versement_prime_bonus": {
+      "Questions": [
+        "Est-ce que je peux effectuer un versement de la totalité de mon variable ou d'une part ?",
+        "Est-ce que je peux effectuer un versement d'une part  de mon variable ?",
+        "Est-ce que je peux verser une part de ma prime sur l'épargne AXA ?",
+        "Est-ce que je peux verser une part de mon bonus sur l'épargne AXA ?",
+        "Est-ce qu'un versement avec une part de ma prime ?",
+        "Est-ce qu'un versement avec une part de mon bonus ?",
+        "Est-ce qu'un versement avec une part de mon variable ?",
+        "Est-ce que je peux verser une part de ma prime sur l'épargne Futuris ?",
+        "Est-ce que je peux verser une part de mon bonus sur l'épargne Futuris ?",
+        "Est-ce que je peux verser une part de ma prime sur l'épargne retraite ?",
+        "Est-ce que je peux verser une part de mon bonus sur l'épargne retraite ?",
+        "Est-ce que je peux verser une part de ma prime sur la retraite  AXA ?",
+        "Est-ce que je peux verser une part de mon bonus sur la retraite AXA ?",
+        "Est-ce que je peux verser une part de ma prime sur la retraite Futuris ?",
+        "Est-ce que je peux verser une part de mon bonus sur la retraite Futuris ?",
+        "Est-ce que je peux verser une part de ma prime sur AXA ?",
+        "Est-ce que je peux verser une part de mon bonus sur  AXA ?",
+        "Est-ce que je peux verser une part de ma prime sur Futuris ?",
+        "Est-ce que je peux verser une part de mon bonus sur Futuris ?",
+        "Je peux verser mon bonus",
+        "Je peux verser ma prime",
+        "Je peux verser une part de mon bonus",
+        "Je peux verser une part de ma prime",
+        "Je veux verser mon bonus",
+        "Je veux verser ma prime",
+        "Je veux verser une part de mon bonus",
+        "Je veux verser une part de ma prime",
+        "C'est possible le versement d'une part de ma prime ?",
+        "C'est possible le versement d'une part de mon bonus ?",
+        "C'est possible le versement de ma prime ?",
+        "C'est possible le versement de mon bonus ?",
+        "Je souhaite verser mon bonus",
+        "Je souhaite verser ma prime",
+        "Je souhaite verser une part de mon bonus",
+        "Je souhaite verser une part de ma prime"
+      ],
+      "Response": "Oui, vous pouvez verser la totalité ou bien une part.  Il suffit de demander à la direction des Ressources Humaines avant le 16 du mois de versement de la prime."
+    },
+    "avantages_taux_minimum_garanti": {
+      "Questions": [
+        "Quel est le taux minimum garanti ?",
+        "Quel est le taux garanti ?",
+        "Quel est le taux minimum ?",
+        "C'est quoi le taux ?",
+        "C'est quoi le taux minimum ?",
+        "C'est quoi le taux garanti ?",
+        "C'est quel taux ?",
+        "C'est quel taux minimum ?",
+        "C'est quel taux garanti ?",
+        "le taux garanti",
+        "le taux minimum",
+        "le taux minimum",
+        "Quel est le taux minimum garanti pour Futuris ?",
+        "Quel est le taux garanti pour Futuris ?",
+        "Quel est le taux minimum pour Futuris ?",
+        "C'est quoi le taux pour Futuris  ?",
+        "C'est quoi le taux minimum pour Futuris  ?",
+        "C'est quoi le taux garanti pour Futuris ?",
+        "C'est quel taux pour Futuris ?",
+        "C'est quel taux minimum pour Futuris ?",
+        "C'est quel taux garanti pour Futuris ?",
+        "le taux garanti pour Futuris ",
+        "le taux minimum pour Futuris ",
+        "le taux minimum pour Futuris ",
+        "Quel est le taux minimum garanti pour l'épargne Futuris ?",
+        "Quel est le taux garanti pour l'épargne Futuris ?",
+        "Quel est le taux minimum pour l'épargne Futuris ?",
+        "C'est quoi le taux pour l'épargne Futuris  ?",
+        "C'est quoi le taux minimum pour l'épargne Futuris  ?",
+        "C'est quoi le taux garanti pour l'épargne Futuris ?",
+        "C'est quel taux pour l'épargne Futuris ?",
+        "C'est quel taux minimum pour l'épargne Futuris ?",
+        "C'est quel taux garanti pour l'épargne Futuris ?",
+        "le taux garanti pour l'épargne Futuris ",
+        "le taux minimum pour l'épargne Futuris ",
+        "le taux minimum pour l'épargne Futuris ",
+        "Quel est le taux minimum garanti pour l'épargne retraite ?",
+        "Quel est le taux garanti pour l'épargne retraite ?",
+        "Quel est le taux minimum pour l'épargne retraite ?",
+        "C'est quoi le taux pour l'épargne retraite  ?",
+        "C'est quoi le taux minimum pour l'épargne retraite  ?",
+        "C'est quoi le taux garanti pour l'épargne retraite ?",
+        "C'est quel taux pour l'épargne retraite ?",
+        "C'est quel taux minimum pour l'épargne retraite ?",
+        "C'est quel taux garanti pour l'épargne retraite ?",
+        "le taux garanti pour l'épargne retraite ",
+        "le taux minimum pour l'épargne retraite ",
+        "le taux minimum pour l'épargne retraite ",
+        "Quel est le taux minimum garanti pour la retraite AXA ?",
+        "Quel est le taux garanti pour la retraite AXA ?",
+        "Quel est le taux minimum pour la retraite AXA ?",
+        "C'est quoi le taux pour la retraite AXA  ?",
+        "C'est quoi le taux minimum pour la retraite AXA  ?",
+        "C'est quoi le taux garanti pour la retraite AXA ?",
+        "C'est quel taux pour la retraite AXA ?",
+        "C'est quel taux minimum pour la retraite AXA ?",
+        "C'est quel taux garanti pour la retraite AXA ?",
+        "le taux garanti pour la retraite AXA ",
+        "le taux minimum pour la retraite AXA ",
+        "le taux minimum pour la retraite AXA ",
+        "Quel est le taux minimum garanti pour la retraite Futuris ?",
+        "Quel est le taux garanti pour la retraite Futuris ?",
+        "Quel est le taux minimum pour la retraite Futuris ?",
+        "C'est quoi le taux pour la retraite Futuris  ?",
+        "C'est quoi le taux minimum pour la retraite Futuris  ?",
+        "C'est quoi le taux garanti pour la retraite Futuris ?",
+        "C'est quel taux pour la retraite Futuris ?",
+        "C'est quel taux minimum pour la retraite Futuris ?",
+        "C'est quel taux garanti pour la retraite Futuris ?",
+        "le taux garanti pour la retraite Futuris ",
+        "le taux minimum pour la retraite Futuris ",
+        "le taux minimum pour la retraite Futuris ",
+        "Quel est le taux minimum garanti pour l'épargne AXA ?",
+        "Quel est le taux garanti pour l'épargne AXA ?",
+        "Quel est le taux minimum pour l'épargne AXA ?",
+        "C'est quoi le taux pour l'épargne AXA  ?",
+        "C'est quoi le taux minimum pour l'épargne AXA  ?",
+        "C'est quoi le taux garanti pour l'épargne AXA ?",
+        "C'est quel taux pour l'épargne AXA ?",
+        "C'est quel taux minimum pour l'épargne AXA ?",
+        "C'est quel taux garanti pour l'épargne AXA ?",
+        "le taux garanti pour l'épargne AXA ",
+        "le taux minimum pour l'épargne AXA ",
+        "le taux minimum pour l'épargne AXA "
+      ],
+      "Response": "Le taux minimum garanti est de 3.25% par an"
+    },
+    "avantages_rémunération_épargne": {
+      "Questions": [
+        "Quel est le principe de rémunération de cette épargne ?",
+        "C'est quoi la rémunération ?",
+        "Quel est le principe de rémunération ?",
+        "Comment est rémunéré ?",
+        "Quel est le principe de rémunération de Futuris ?",
+        "C'est quoi la rémunération de Futuris ?",
+        "Comment est rémunéré Futuris ?",
+        "Quel est le principe de rémunération de l'épargne Futuris ?",
+        "C'est quoi la rémunération de l'épargne Futuris?",
+        "Comment est rémunéré l'épargne Futuris ?",
+        "Quel est le principe de rémunération de l'épargne retraite ?",
+        "C'est quoi la rémunération de l'épargne retraite ?",
+        "Comment est rémunéré l'épargne retraite?",
+        "Quel est le principe de rémunération de la retraite AXA ?",
+        "C'est quoi la rémunération de la retraite AXA ?",
+        "Comment est rémunéré la retraite AXA ?",
+        "Quel est le principe de rémunération de l'épargne AXA ?",
+        "C'est quoi la rémunération de l'épargne AXA ?",
+        "Comment est rémunéré l'épargne AXA ?",
+        "Quel est le principe de rémunération de la retraite Futuris ?",
+        "C'est quoi la rémunération de la retraite Futuris ?",
+        "Comment est rémunéré la retraite Futuris ?"
+      ],
+      "Response": "L’épargne bénéficie chaque année d’un taux de valorisation net communiqué par la compagnie AXA."
+    },
+    "avantages_taux_de_valorisation": {
+      "Questions": [
+        "Quel est son taux de valorisation pour cette année ?",
+        "Quel est son taux de valorisation pour AXA ?",
+        "Quel est son taux de valorisation pour Futuris?",
+        "Quel est son taux de valorisation pour mon épargne retraite ?",
+        "Quel est son taux de valorisation pour mon épargne Futuris ?",
+        "Quel est son taux de valorisation pour mon épargne AXA ?",
+        "C'est quoi le taux de valorisation pour cette année ?",
+        "C'est quoi le taux de valorisation pour AXA ?",
+        "C'est quoi le taux de valorisation pour Futuris?",
+        "C'est quoi le taux de valorisation pour mon épargne retraite ?",
+        "C'est quoi le taux de valorisation pour mon épargne Futuris ?",
+        "C'est quoi le taux de valorisation pour mon épargne AXA ?",
+        "Quel est son taux de valorisation ?",
+        "C'est quoi le taux de valorisation ?",
+        "Le taux de valorisation"
+      ],
+      "Response": "Il faut demander à votre attaché RH."
+    },
+    "avantages_date_valeur_valorisation": {
+      "Questions": [
+        "Quelle est la date de valeur ?",
+        "C'est quoi la date de valeur ?",
+        "La date de valeur c'est quoi ?",
+        "La date de valeur c'est laquelle ?",
+        "Quelle est la date de valeur pour AXA ?",
+        "C'est quoi la date de valeur pour AXA ?",
+        "La date de valeur c'est quoi pour AXA ?",
+        "La date de valeur c'est laquelle pour AXA ?",
+        "Quelle est la date de valeur pour Futuris?",
+        "C'est quoi la date de valeur pour Futuris ?",
+        "La date de valeur c'est quoi pour Futuris ?",
+        "La date de valeur c'est laquelle pour Futuris ?",
+        "Quelle est la date de valeur pour l'épargne retraite ?",
+        "C'est quoi la date de valeur pour l'épargne retraite  ?",
+        "La date de valeur c'est quoi pour l'épargne retraite  ?",
+        "La date de valeur c'est laquelle pour l'épargne retraite  ?"
+      ],
+      "Response": "Le cinquième jour ouvrable qui suit la date d’encaissement par la compagnie AXA."
+    },
+    "avantages_fiscalité_à_l'entrée": {
+      "Questions": [
+        "Quelles sont les régles de fiscalité à l'entrée ?",
+        "C'est quoi les régles de fiscalité à l'entrée ?",
+        "Quelle est la fiscalité appliquée à l'entrée ?",
+        "Comment la fiscalité est appliquée à l'entrée ?",
+        "Quelle est la fiscalité appliquée à la souscription ?",
+        "Quelle est la fiscalité du contrat d'épargne retraite ?",
+        "Quelle est la fiscalité du contrat d'épargne AXA ?",
+        "Quelle est la fiscalité du contrat d'épargne Futuris?",
+        "Quelle est la fiscalité du contrat d'épargne retraite ?",
+        "Quelle est la fiscalité du contrat retraite Futuris?",
+        "Quelle est la fiscalité du contrat retraite Axa ?"
+      ],
+      "Response": "A l'entrée, une déduction des primes d’épargne du revenu global imposable à 50% pour les contrats souscrit après le 1 janvier 2015 et sans limitation pour tous contrats antérieurs à cette date."
+    },
+    "avantages_fiscalité_à_la_sortie": {
+      "Questions": [
+        "Quelles sont les régles de fiscalité à la fin du contrat ?",
+        "C'est quoi les régles de fiscalité à la fin du contrat ?",
+        "Quelle est la fiscalité appliquée à la fin du contrat ?",
+        "Comment la fiscalité est appliquée à la fin du contrat ?",
+        "Quelle est la fiscalité appliquée à la fin du contrat ?",
+        "Quelle est la fiscalité du contrat d'épargne retraite à la fin?",
+        "Quelle est la fiscalité du contrat d'épargne AXA à la fin ?",
+        "Quelle est la fiscalité du contrat d'épargne Futuris à la fin?",
+        "Quelle est la fiscalité du contrat d'épargne retraite à la fin ?",
+        "Quelle est la fiscalité du contrat retraite Futuris à la fin?",
+        "Quelle est la fiscalité du contrat retraite Axa à la fin ?"
+      ],
+      "Response": "Si la durée minimale du contrat est de 8 ans et l’âge à la sortie à la retraite est de 50 ans révolus.\nPour l'option Capital :\n- Capital divisé par nombre d’année de cotisation (plafonné à 4 ans maximum)\n- Abattement de 40% (BO du 01/07/99) sur chaque part\n- Imposition de chaque part selon le barème de l’IR en vigueur\nPour l'option Capital :\nBarème IR en vigueur\nAbattement de 40%(BO du 01/07/99)"
+    },
+    "avantages_fiscalité_à_la_sortie_option_capital": {
+      "Questions": [
+        "Quelles sont les régles de fiscalité à la sortie pour l'option Capital ?",
+        "Quelles sont les régles de fiscalité à la fin pour l'option Capital ?",
+        "Quelles sont les régles de fiscalité à la fin du contrat pour l'option Capital ?",
+        "C'est quoi les régles de fiscalité à la fin du contrat pour l'option Capital ?",
+        "Quelle est la fiscalité appliquée à la fin du contrat pour l'option Capital ?",
+        "Comment la fiscalité est appliquée à la fin du contrat pour l'option Capital ?",
+        "Quelle est la fiscalité appliquée à la fin du contrat pour l'option Capital ?",
+        "Quelle est la fiscalité du contrat d'épargne retraite à la fin pour l'option Capital?"
+      ],
+      "Response": "Si la durée minimale du contrat est de 8 ans et l’âge à la sortie à la retraite est de 50 ans révolus. Pour l'option Capital :\n- Capital divisé par nombre d’année de cotisation (plafonné à 4 ans maximum)\n- Abattement de 40% (BO du 01/07/99) sur chaque part\n- Imposition de chaque part selon le barème de l’IR en vigueur"
+    },
+    "avantages_fiscalité_à_la_sortie_option_rente": {
+      "Questions": [
+        "Quelles sont les régles de fiscalité à la sortie pour l'option Rente ?",
+        "Quelles sont les régles de fiscalité à la fin pour l'option Rente ?",
+        "Quelles sont les régles de fiscalité à la fin du contrat pour l'option Rente ?",
+        "C'est quoi les régles de fiscalité à la fin du contrat pour l'option Rente ?",
+        "Quelle est la fiscalité appliquée à la fin du contrat pour l'option Rente ?",
+        "Comment la fiscalité est appliquée à la fin du contrat pour l'option Rente ?",
+        "Quelle est la fiscalité appliquée à la fin du contrat pour l'option Rente ?",
+        "Quelle est la fiscalité du contrat d'épargne retraite à la fin pour l'option Rente?"
+      ],
+      "Response": "Si la durée minimale du contrat est de 8 ans et l’âge à la sortie à la retraite est de 50 ans révolus. Pour l'option Capital :\nBarème IR en vigueur\nAbattement de 40%(BO du 01/07/99)\n"
+    },
+    "avantages_déclaration_fiscale": {
+      "Questions": [
+        "Quelles sont les obligations déclaratives auprès du fisc de l'employeur et du souscripteur à l'entrée ?",
+        "Quelles sont les obligations déclaratives auprès du fisc ?",
+        "C'est quoi les déclarations fiscales ?",
+        "Quelles sont les obligations déclaratives auprès du fisc ?",
+        "C'est quoi les déclarations fiscales pour l'épargne retraite ?",
+        "C'est quoi les déclarations fiscales pour l'épargne AXA ?",
+        "C'est quoi les déclarations fiscales pour l'épargne Futuris ?",
+        "C'est quoi les déclarations fiscales pour la retraite AXA ?",
+        "C'est quoi les déclarations fiscales pour la retraite Futuris ?",
+        "Est-ce que je dois déclarer ma retraite Futuris ?",
+        "Est-ce que je dois déclarer ma retraite AXA ?",
+        "Est-ce que je dois déclarer mon épargne retraite ?",
+        "Déclaration fiscale épargne retraite"
+      ],
+      "Response": "Aucune déclaration n'est requise pour le salarié. C'est l'employeur qui doit annuellement déclarer les montants prélevés individuellement pour justifier la réduction de l'IR à régler."
+    },
+    "avantages_déclaration_fiscale_revenu_complémentaire": {
+      "Questions": [
+        "Que dois-je faire si je perçois un autre revenu complémentaire ? ",
+        "Comment je fais si j'ai une autre revenu ?",
+        "Comment je dois faire avec mon revenu complémentaire ?"
+      ],
+      "Response": "Vous devez procéder à la régularisation de votre situation fiscale (déclaration annuelle du revenu global)."
+    },
+    "avantages_fiscaux": {
+      "Questions": [
+        "A quelles conditions sont subordonés les avantages fiscaux à la sortie ? ",
+        "Quelles sont les conditions qui permettent de profiter des avantages fiscaux à la sortie ? ",
+        "Conditions pour les avantages fisccaux à la fin du contrat ?",
+        "Conditions pour les avantages fisccaux à la sortie ?",
+        "A quelles conditions sont subordonés les avantages fiscaux à la fin de l'épargne retraite ? ",
+        "Quelles sont les conditions qui permettent de profiter des avantages fiscaux à la fin de l'épargne retraite ? ",
+        "Conditions pour les avantages fisccaux à la fin de l'épargne retraite ?",
+        "Conditions pour les avantages fisccaux à la fin de l'épargne retraite ?",
+        "A quelles conditions sont subordonés les avantages fiscaux à la fin de l'épargne AXA ? ",
+        "Quelles sont les conditions qui permettent de profiter des avantages fiscaux à la fin de l'épargne AXA ? ",
+        "Conditions pour les avantages fisccaux à la fin de l'épargne AXA ?",
+        "Conditions pour les avantages fisccaux à la fin de l'épargne AXA ?",
+        "A quelles conditions sont subordonés les avantages fiscaux à la fin de l'épargne Futuris ? ",
+        "Quelles sont les conditions qui permettent de profiter des avantages fiscaux à la fin de l'épargne Futuris ? ",
+        "Conditions pour les avantages fisccaux à la fin de l'épargne Futuris ?",
+        "Conditions pour les avantages fisccaux à la fin de l'épargne Futuris ?"
+      ],
+      "Response": "Deux conditions cumulatives liées à la durée du contrat et à l'âge du bénéficiaire doivent être respectées :\n1- Le contrat d'épargne retraite doit être souscrit pour une durée minimum de 8 années\n2- La rente ou le capital est servi au bénéficiaire à partir de 50 ans révolus"
+    },
+    "avantages_fiscaux_à_la_sortie": {
+      "Questions": [
+        "Puis-je bénéficier des avantages fiscaux à la sortie si j'ai souscrit durant 8 ans et que j'ai 60 ans révolus même si je ne suis pas encore à la retraite ?"
+      ],
+      "Response": "Oui, encore faut-il que vous puissiez racheter votre contrat. Vous pouvez racheter votre contrat à la condition que vous cessiez votre activité au sein de votre entreprise ( départ définitif)."
+    },
+    "avantages_suspension_contrat": {
+      "Questions": [
+        "Est-ce que je peux suspendre mon contrat ?",
+        "Est-ce que je peux arrêter mon contrat ?",
+        "Est-ce que je peux suspendre mon contrat AXA ?",
+        "Est-ce que je peux arrêter mon contrat AXA ?",
+        "Est-ce que je peux suspendre mon contrat Futuris ?",
+        "Est-ce que je peux arrêter mon contrat Futuris ?",
+        "Est-ce que je peux suspendre mon épargne retraite ?"
+      ],
+      "Response": "Possible à tout moment, il faut juste informer la direction des Ressources Humaines."
+    },
+    "avantages_après_suspension_contrat": {
+      "Questions": [
+        "Est-ce que je peux suspendre mon contrat mais continuer à bénéficier du jeu de valorisation ?",
+        "Est-ce que je peux suspendre  mon contrat et garder mon épargne retraite ?",
+        "Est-ce que je peux suspendre  mon contrat et garder mon épargne Futuris ?",
+        "Est-ce que je peux suspendre  mon contrat et garder mon épargne AXA ?",
+        "Est-ce que je peux suspendre  mon contrat sans arrêter le contrat ?"
+      ],
+      "Response": "Oui, vous devez informer votre direction des Ressources Humaines afin d'annuler le prélèvement sur votre salaire et transmettre une lettre à AXA pour indiquer vos intentions."
+    },
+    "avantages_cessation_d'activité": {
+      "Questions": [
+        "Comment je peux faire en cas de cessation d’activité à la BMCI ?",
+        "Comment je dois faire si je quitte BMCI ?",
+        "Comment je dois procéder pour mon épargne retraite  si je quitte BMCI ?",
+        "Comment je dois procéder pour mon épargne AXA  si je quitte BMCI ?",
+        "Comment je dois procéder pour mon épargne Futuris  si je quitte BMCI ?",
+        "Si je quitte BMCI, qu'est ce que je dois faire pour mon épargne retraite ?",
+        "Si je quitte BMCI, qu'est ce que je dois faire pour mon épargne AXA ?",
+        "Si je quitte BMCI, qu'est ce que je dois faire pour mon épargne Futuris ?"
+      ],
+      "Response": "Deux possibilités lorsque le collaborateur cesse de faire partie du personnel BMCI :\n1- Maintien de son compte(en attendant l’échéance normale ou anticipée)\n2- Rachète ses propres cotisations revalorisées"
+    },
+    "avantages_rachat": {
+      "Questions": [
+        "Quelles sont les régles de rachat ?",
+        "C'est quoi les régles de rachat ?",
+        "Quelles sont les régles de rachat pour mon épargne retraite ?",
+        "C'est quoi les régles de rachat épargne AXA?",
+        "Quelles sont les régles de rachat pour mon épargne Futuris ?",
+        "C'est quoi les régles de rachat pour ma retraite Futuris ?",
+        "C'est quoi les régles de rachat pour ma retraite AXA ?"
+      ],
+      "Response": "1- Rachat partiel : maximum 50% de l’épargne gérée et pas plus de quatre fois dans la vie d’un contrat\n2- Rachat total : Possible si \n- l’adhérent cesse son activité à la BMCI\n- il met fin au contrat\nDans les deux cas voir pénalités IR et coût du rachat"
+    },
+    "avantages_rachat_partiel": {
+      "Questions": [
+        "Quelles sont les régles de rachat partiel ?",
+        "C'est quoi les régles rachat partiel ?",
+        "Quelles sont les régles de rachat partiel de mon épargne retraite ?",
+        "C'est quoi les régles rachat partiel de mon épargne retraite  ?",
+        "Quelles sont les régles de rachat partiel de mon épargne AXA ?",
+        "C'est quoi les régles rachat partiel de mon épargne AXA  ?",
+        "Quelles sont les régles de rachat partiel de mon épargne Futuris ?",
+        "C'est quoi les régles rachat partiel de mon épargne Futuris  ?"
+      ],
+      "Response": "Le rachat partiel  c'est maximum 50% de l’épargne gérée et pas plus de quatre fois dans la vie d’un contrat"
+    },
+    "avantages_rachat_total": {
+      "Questions": [
+        "Quelles sont les régles de rachat total ?",
+        "C'est quoi les régles rachat total ?",
+        "Quelles sont les régles de rachat total de mon épargne retraite  ?",
+        "C'est quoi les régles rachat total de mon épargne retraite ?",
+        "Quelles sont les régles de rachat total de mon épargne AXA  ?",
+        "C'est quoi les régles rachat total de mon épargne AXA ?",
+        "Quelles sont les régles de rachat total de mon épargne Futuris  ?",
+        "C'est quoi les régles rachat total de mon épargne Futuris ?"
+      ],
+      "Response": "Le rachat total  est possible uniquement si :\n- l’adhérent cesse son activité à la BMCI\n- il met fin au contrat"
+    }
+  },
+  "Absences": {
+    "Maternité_droits_congé_titulaire": {
+      "Questions": [
+        "Quels sont les droits congé maternité en tant que titulaire?",
+        "Congé maternité titulaire",
+        "Quelle est la durée du congé maternité en tant que titulaire ?"
+      ],
+      "Response": "Il est accordé au dames employées titulaires en état de grossesse sous déduction des prestations sociales : \n-> Congé prénatal (avant accouchement):  45 Jours avec Salaire Intégral  \n-> Congé post-natal (après accouchement):  90 jours avec Salaire Intégral  \n-> Congé conventionnel:6 Mois avec  50% de Salaire  \n-> Congé sans solde:   6 Mois  Sans salaire  \n\n"
+    },
+    "Maternité_droits_congé_nontitulaire": {
+      "Questions": [
+        "Quels sont les droits congé maternité en tant que non titulaire ?",
+        "Congé maternité non titulaire",
+        "Quelle est la durée du congé maternité en tant que non titulaire?"
+      ],
+      "Response": "-> Non-titulaires, affiliées à la CNSS, et éligibles selon l’organisme : indemnités journalières de la CNSS pendant le congé post-natal. \n-> Sous contrat ANAPEC (non affiliées à la CNSS) : aucune indemnité pendant le congé maternité. \n\n\n"
+    },
+    "Matérnité_congé_prénatal": {
+      "Questions": [
+        "Qu'est ce que le congé prénatal ? ",
+        "Maternité congé prénatal ?",
+        "je suis à 7 mois et demi de grossesse , que faire?",
+        "sortie en matérnité procédure"
+      ],
+      "Response": "Le congé prénatal s’étale de la date mentionnée dans le certificat de 7 mois et demi de grossesse jusqu’à la date d’accouchement. La durée totale du congé prénatal est majorée à 45 jours. \n"
+    },
+    "Matérnité_congé_prénatal_procédure": {
+      "Questions": [
+        "Quelle la procédure administrative que  je dois suivre si je cumule 7 mois et demi de grossesse?",
+        "Grossesse procédure ?",
+        "je suis à 7 mois et demi de grossesse , que faire?",
+        "sortie en matérnité procédure"
+      ],
+      "Response": "La collaboratrice doit transmettre à son conseiller administratif son certificat de grossesse de 7 mois et demi qui matérialise sa demande par une lettre d’acceptation d’un congé prénatal contenant les démarches nécessaires à accomplir après l’accouchement.\n"
+    },
+    "Matérnité_documents_accouchement": {
+      "Questions": [
+        "Quels sont les documents que je dois fournir après l’accouchement ? ",
+        "Quels sont les papiers à fournir après accouchement?",
+        "De quoi se compose le dossier accouchement?"
+      ],
+      "Response": "*3 extraits de naissance  *l’accusé de réception relatif au dépôt des IJM maternité auprès de la CNSS. \n"
+    },
+    "Matérnité_congé_prolongation_délai": {
+      "Questions": [
+        "Quel est le délai durant le quel je dois aviser mon employeur pour bénéficier de mon congé demi solde et ou sans solde ?  ",
+        "Quel sont les délais de congé dans le cas de maternité?",
+        "Quand dois-je demander un congé maternité?",
+        "Congé demi solde "
+      ],
+      "Response": "Au plus tard 15 jours avant de la date de reprise prévue, en déposant les documents demandés pour ce faire.\n"
+    },
+    "Matérnité_congé_prolongation_documents": {
+      "Questions": [
+        "Quels sont les documents nécessaires pour faire une demande de mon congé demi solde et ou sans solde ?  ",
+        ".Quel sont les documents pour prolonger le congé de maternité?",
+        "Congé demi solde documents",
+        "Congé sans solde docuements",
+        "Prolongation congé maternité",
+        "Comment puis-je prolonger un congé maternité?"
+      ],
+      "Response": ". demande de prolongation manuscrite\n. certificat d’allaitement émanent du gynécologue ou du pédiatre.  \n. L'accord est matérialisé par une lettre établie par le conseiller administratif, précisant la durée et la date de reprise.\n"
+    },
+    "Matérnité_prolongation_congé_impact": {
+      "Questions": [
+        "Est-ce que mes droits au congé annuel seront impactés si jamais je demande une prolongation conventionnelle de mon congé maternité? ",
+        "Prolongation maternité et droits aux congés ",
+        "Est-ce que je peux demander un congé après une prolongation de congé maternité?",
+        "Impact de la prolongation du congé maternité sur mon congé annuel "
+      ],
+      "Response": "Dans le cas où la collaboratrice demande un congé maternité  demi solde et/ou sans solde , une partie de son solde de congé annuel sera liquidé. C’est-à-dire qu'elle doit consommer les droits de congé de l’année écoulée et de la période post-natal. Un ajustement du reliquat de congé sera exécuté en fonction de la période de non présence de l’intéressée.\n"
+    },
+    "Matérnité_congé_interruption": {
+      "Questions": [
+        "Dans le cas ou je souhaite interrompre mon congé demi solde et ou sans solde quelle est la procédure à suivre ?  ",
+        "Interuption congé demi solde , procédure à suivre",
+        "Que faire dans le cas ou j'interompe mon congé demi solde?"
+      ],
+      "Response": "La collaboratrice doit informer son conseiller RH qui prendra en charge son affectation selon le besoin de la banque. Il informera le conseiller administratif ainsi que le service paie afin d’interrompre le congé demi solde ou sans solde en apportant les corrections  qui s’imposent en terme de  congé annuel et de traitement du salaire. "
+    },
+    "Matérnité_traitement_salaire": {
+      "Questions": [
+        "Quels sont les modalités de  traitement du salaire dans le cadre d’une maternité ? ",
+        "Comment est calculé le salaire pendant une maternité?",
+        "Je suis en maternité , comment sera calculé mon salaire?",
+        "Salaire en maternité "
+      ],
+      "Response": "Conformément à la convention collective, les collaboratrices en état de grossesse bénéficieront durant leurs congé prénatal et post -natal du plein traitement du salaire à condition que celles-ci déposent  une demande des indemnités journalière de maternité auprès de la CNSS. \nLe conseiller administratif effectue un suivi régulier de la perception des IJM. Une fois que les IJM sont encaissées par la collaboratrice, la banque débite le montant correspondant. A défaut, la banque récupère automatiquement le montant équivalent aux IJM, après une période de 3 mois à compter de la date d’interruption de travail. En cas de non-respect du dépôt de la demande d’indemnités auprès de la CNSS, la collaboratrice peut être débitée si la banque ne récupère pas l’équivalent des indemnités liées au congé maternité.  "
+    },
+    "Maternité_IJM_conditions": {
+      "Questions": [
+        "Quelles sont les conditions d’octroi des IJM maternité ?",
+        "IJM droits",
+        "Règles d'octroi d'un IJM?",
+        "droits aux IJM "
+      ],
+      "Response": "Les conditions d’octroi des IJM maternité sont : \n-> être salariée immatriculée à la CNSS,\n-> justifier d'au moins 54 jours de cotisations pendant les 10 derniers mois d'immatriculation précédant la date de l’arrêt de travail pour accouchement.\n"
+    },
+    "Maternité_IJM_calcul": {
+      "Questions": [
+        "Quelle est la Durée des IJM  maternité et comment est calculé leur montant  ?",
+        "IJM calcul",
+        "IJM durée",
+        "IJM montant"
+      ],
+      "Response": "-> Durée : 14 semaines (98 jours).\n-> Montant : 100% du salaire journalier moyen soumis à cotisation (plafonné) et perçu pendant les six derniers mois précédant l’arrêt du travail rendu nécessaire par la proximité de l’accouchement.\n"
+    },
+    "Maternité_IJM_pièces": {
+      "Questions": [
+        "Quelles sont les pièces à fournir pour déposer un dossier IJM maternité auprès de la CNSS?",
+        "De quoi se compose un dossier IJM?",
+        "Documents a fournir dossier IJM",
+        "Papiers à fournir pour un dossier IJM"
+      ],
+      "Response": "-> Formulaire de la demande IJM dûment renseigné ; \n-> Copie de la CIN (si le dépôt n’est pas fait auparavant à la CNSS) (ou copie de la Carte Résidence / copie du Passeport pour les étrangers) ;\n-> Attestation RIB ou spécimen de chèque (si le dépôt n’est pas fait auparavant à la CNSS) ;\n-> Extrait d’acte de naissance ou, à défaut, un certificat de naissance délivré par le médecin ;\n-> Certificat de décès en cas de décès du nouveau-né.\n"
+    },
+    "Maternité_dossier_CNSS_délai": {
+      "Questions": [
+        "Quel est le délai de dépôt à la CNSS ?",
+        "Temps de traitement du dossier CNSS dans le cas de maternité?",
+        "Combien de temps prend le traitement CNSS maternité?"
+      ],
+      "Response": ". Pour l'avis d'interruption de travail : un délai de moins de 30 jours à compter de la date d’arrêt de travail; \n. Pour la demande d'indemnités journalières de maternité : un délai de moins de 9 mois à compter de la date d'arrêt de travail.\n"
+    },
+    "Maternité_dossier_CNSS_allaitement": {
+      "Questions": [
+        "Quand est ce que je peux bénéficier de mon heure d’allaitement ?",
+        "Heure allaitement droits",
+        "Quand je peux prendre mon heure d'allaitement? ",
+        "Horaire allaitement ",
+        "Quelles sont les conditions d'octroi de l'heure d’allaitement ?",
+        "Heure allaitement conditions",
+        "Comment je peux prendre mon heure d'allaitement? "
+      ],
+      "Response": "La collaboratrice a droit quotidiennement durant les heures de travail, pendant une durée jusqu’à une année après la reprise réglementaire, à une demi-heure le matin et une demi-heure l’après-midi. Ce temps est accordé afin de permettre à la collaboratrice d’allaiter son enfant. "
+    },
+    "Accident_de_travail_définition": {
+      "Questions": [
+        "Qu’est ce qu’un accident de travail ? ",
+        "Accident de travail définition",
+        "C'est quoi un accident de travail?",
+        "Accident de travail "
+      ],
+      "Response": "Conformément aux dispositions du droit marocain, il est considéré comme accident de travail ou de trajet tout accident qui survient par le fait ou à l’occasion du travail, à une personne travaillant, pour le compte d’un ou plusieurs  employeurs.\n"
+    },
+    "Accident_de_travail_critères": {
+      "Questions": [
+        "Quels sont les critères qui caractérisent un accident de travail ? ",
+        "Accident de travail caractéristiques?",
+        "Comment savoir s'il s'agit d'un accident de travail ou pas?"
+      ],
+      "Response": "L’accident de travail, doit avoir les critères suivants: \n*Un évènement soudain;\n*Une lésion corporelle ou physique;\n*La survenance de l’accident au cours ou à l’occasion du travail.\nL’accident de  trajet doit avoir lieu pendant l’aller-retour entre le lieu du travail.\n"
+    },
+    "Accident_de_travail_procédure": {
+      "Questions": [
+        "Qu’est que je dois faire lorsqu’un accident de travail survient?",
+        "Comportement a adopter lors d'un accident de travail",
+        "Quoi faire en cas d'accident de travail?"
+      ],
+      "Response": "1. Faire appel aux assistantes sociales et/ou à des intervenants externes (secours, ambulance….) pour les soins nécessaires; \n 2. Se diriger vers un médecin (conventionné ou au choix);\n 3. Comprendre les causes et les circonstances de l’accident (témoignages). "
+    },
+    "Accident_de_travail_déclaration": {
+      "Questions": [
+        "Quelle est procédure que je dois suivre pour déclarer un AT à mon employeur ? ",
+        "Procédure de déclaration d'un accident de travail",
+        "Comment déclarer un accident de travail?"
+        
+      ],
+      "Response": "Le collaborateur doit informer le service administratif dans un délai de 48 h par le biais de sa hiérarchie, précisant la date, l’heure, le lieu et les circonstances de l’accident.\nNB : Toute déclaration faite à la DRH au-delà des 48 heures risque d’être rejetée par l’assurance, et entrainer la non prise en charge des indemnités journalières.\n"
+    },
+    "Accident_de_travail_documents": {
+      "Questions": [
+        "Quels sont les documents à fournir pour la constitution de mon dossier AT auprès de mon assureur ?",
+        "Accident de travail  document à fournir",
+        "Accident de travail  papiers à fournir",
+        "De quoi se compose un dossier accident de travail?   ",
+        "Quels sont les documents à fournir en complément lors d'un AT en dehors des locaux de la banque?",
+        "Accident de travail  document à fournir",
+        "Accident de travail  papiers à fournir",
+        "De quoi se compose un dossier accident de travail?   ",
+        "Quels sont les documents à fournir en complément lors d'un AT en cas d’accident de circulation ou d’agression ?\n",
+        "Accident de travail  document à fournir",
+        "Accident de travail  papiers à fournir",
+        "De quoi se compose un dossier accident de travail?   ",
+        "Quels sont les documents à fournir en complément lors d'un AT en cas de déplacement dans le cadre du travail ?",
+        "Accident de travail  document à fournir",
+        "Accident de travail  papiers à fournir",
+        "De quoi se compose un dossier accident de travail?"
+      ],
+      "Response": "Le collaborateur victime d’un accident de travail doit adresser au service administratif : \n. Par mail : \n-> Le certificat de constatation, indiquant son état, les blessures subis ainsi que les soins nécessaires et la durée de l’arrêt de travail (ITT) S'il y a lieu.\n. Par courrier : \n-> L’original du certificat de constatation  en double  exemplaire,\n-> Copie carte CIN de la victime, \n-> Déclaration sur l’honneur de la victime légalisée, précisant les causes et les circonstances de l’accident,\n-> Prescription et ordonnances  ( médicaments, radios, séances  de rééducation…..),\n-> Facture, prospectus, et vignettes de médicaments achetés. \n"
+    },
+    "Accident_de_travail_contre_visite": {
+      "Questions": [
+        "Dans le cadre d’un AT est ce que je serais convoqué à une contre visite ?  ",
+        "Accident de travail et  contre visite",
+        "Dois-je faire une contre visite dans le cas d'un accident de travail ?",
+        "contre visite pour AT "
+      ],
+      "Response": "Après déclaration de l'accident de travail, le collaborateur peut être convoqué pour contre visite médicale d’usage auprès du médecin conseil de la compagnie d’assurance.\nLe règlement du dossier accident de travail par l’assureur est subordonné aux résultats de cette contre visite, à défaut aucune indemnisation ni prestation n’est prise en charge par la compagnie d’assurance.\n\n"
+    },
+    "Accident_de_travail_prolongation": {
+      "Questions": [
+        "Qu’est ce que je dois faire dans  le cas de prolongation de mon arrêt suite à un AT ? ",
+        "Que faire dans le cas de prolongation d'un accident de travail?",
+        "Accident de travail procédure de prolongation.",
+        "prolongation d'un AT"
+      ],
+      "Response": "En cas de prolongation de l'arrêt suite à un accident de travail, le collaborateur doit envoyer au service administratif un certificat de prolongation d’arrêt de travail en deux exemplaires.\n"
+    },
+    "Accident_de_travail_reprise_travail": {
+      "Questions": [
+        "Qu’est ce que je dois faire dans le cas de reprise de mon AT ?",
+        "Que faire dans le cas de reprise  d'un accident de travail?",
+        "Accident de travail procédure de reprise.",
+        "reprise d'un AT"
+      ],
+      "Response": "À la reprise le collaborateur doit envoyer au service administratif en deux exemplaires : \n-> Un certificat de reprise de travail,\n-> Un certificat de guérison daté, précisant le taux IPP s’il y a lieu et les séquelles restantes.\n"
+    },
+    "Accident_de_travail_rechute": {
+      "Questions": [
+        "Qu’est ce que je dois faire dans le cas de rechute ou d’aggravation ? ",
+        "Que faire dans le cas de rechute ou aggravation   d'un accident de travail?",
+        "Rechute d'un accident de travail procédure à suivre .",
+        "rechute d'un AT"
+      ],
+      "Response": "En cas de rechute (aggravation de la lésion initiale ou nouvelle lésion résultante de l’accident de travail ou de trajet), le médecin traitant doit établir un certificat médical de rechute au titre de l‘accident du travail initial. Le collaborateur doit envoyer ce certificat au service administratif sans dépasser un délai de 48 h après sa date d’édition. Au terme de cette période de rechute, le médecin doit à nouveau établir un nouveau certificat fixant la date de guérison ou de consolidation. \n"
+    },
+    "Accident_de_travail_prestation_assurance": {
+      "Questions": [
+        "Quels sont les prestations proposées par la compagnie d’assurance en cas d’AT ?",
+        " Prestations  assurances dans le cas d'un accident de travail"
+      ],
+      "Response": "Les prestations proposées par la compagnie d’assurance en cas d’AT sont : \n-> Les frais médicaux, pharmaceutiques, d’appareillage et de prothèse;\n-> L’assistance d’une tierce personne;\n-> Les frais funéraires en cas de décès.\n"
+    },
+    "Accident_de_travail_indiminisation": {
+      "Questions": [
+        "Quels sont les modalités d’indemnisation des jours d’arrêt de travail en cas d’AT ? ",
+        "Accident de travail , calcul d'indemnisation?",
+        "calcul de l'indémnisation de l'AT"
+      ],
+      "Response": "Le collaborateur victime d’un AT perçoit ses traitements à 100% et l’assurance procède au remboursement de l’indemnité journalière en faveur de la banque. Dans le cas contraire, la banque récupère le montant non remboursé par le débit du compte bancaire de la victime."
+    },
+    "Accident_de_travail_indéminisation_guérison": {
+      "Questions": [
+        "Quels sont les modalités d’indemnisation en cas de guérison (rente capital) ? ",
+        "Accident de travail indemnisation",
+        "Modalités indemnisation AT"
+      ],
+      "Response": "En fonction de taux d'IP (incapacité permanente), le collaborateur peut bénéficier d’une indemnisation sous forme:\n-> D’un capital (taux d’IP < 10%);\n-> D’une rente viagère d’incapacité permanente (taux d’IP >= 10%).\nLa compagnie d’assurance envoie à la BMCI le PV de conciliation en 3 exemplaires, et la quittance (montant de la rente/l’indemnité en capital).\nLe collaborateur signe et légalise ces docuements et les adresse au service administratif.\n"
+    },
+    "congé_droits": {
+      "Questions": [
+        "Quels sont mes droits de congé ?",
+        "C'est quoi mes droits de congé",
+        "Droit de congé"
+      ],
+      "Response": "Veuillez trouver les détails de vos droits au congé dans le document ci-joint."
+    },
+    "congé_durée_maximale": {
+      "Questions": [
+        "Quelle est la durée maximale totale du congé annuel ? ",
+        "congé max",
+        "durée congé max",
+        "maximum du congé ",
+        "durée congé maximum"
+      ],
+      "Response": "La durée totale du congé annuel ne peut excéder 31 jours ouvrables."
+    },
+    "congé_évolution_droits": {
+      "Questions": [
+        "Quels sont les modalités d’évolution des mes droits de congé ?",
+        "Congé annuel évolution",
+        "Evolution des droits de congé annuel",
+        "evolution de mes congés"
+      ],
+      "Response": "Les droits de congé évoluent en foncion  de trois paramètres : l’ancienneté, le grade et l’enfant à charge.\nCette évolution est accordée pratiquement le 1 er janvier de l’année N+1.  \nLa majoration enfant à charge est d’un jour par enfant avec un maximum de 4 jours. A noter que la durée totale ne peut en aucun cas excéder 31 jours ouvrables de date à date. "
+    },
+    "congé_demande": {
+      "Questions": [
+        "Comment je peux demander  un congé annuel ? ",
+        " Congé annuel demande ",
+        "demande de congé annuel "
+      ],
+      "Response": "La demande du congé annuel se fait sur OpenHR, dans la rubrique \"Mes absences\". Il s'uffit de cliquer sur \"Demande de congé\" afin de renseigner votre demande et la valider. Votre manager recevra la notification afin de l'approuver. "
+    },
+    "congé_annulation_en_attente": {
+      "Questions": [
+        "Comment procéder à l'annulation d'un congé en attente de validation ?",
+        "Congé annuel annulation avant validation",
+        "Comment annuler un congé ? ",
+        "annuler mon congé "
+      ],
+      "Response": "Dans l'espace OPEN HR, Rubrique  \"Mes demandes \" : il vous suffit de cocher la période concernée par la suppression, appuyer sur le bouton annuler puis confirmer. "
+    },
+    "congé_validé_annulation": {
+      "Questions": [
+        "Comment procéder à l'annulation d'un congé validé non encore entamé ? ",
+        "Congé annuel annulation après validation",
+        "Comment annuler un congé validé et planifié ? ",
+        "annuler mon congé validé"
+      ],
+      "Response": "Le collaborateur peut faire l'annulation via son espace OPEN HR Rubrique  \"Mes absences\", onglet \"Annulation de congé \" : il  suffit  d' appuyer sur le bouton \"modifier\" puis sur le bouton  valider /envoyer. \n"
+    },
+    "congé_validé_non_consomé_annulation": {
+      "Questions": [
+        "Comment procéder à l'annulation d'un congé validé déjà entamé non consommé ?",
+        "Congé annuel annulation entamé",
+        "Comment annuler un congé validé et entamé ? ",
+        "annuler un congé validé et entamé "
+      ],
+      "Response": "Il suffit de transmettre votre demande d’annulation au gestionnaire administratif en lui communiquant une nouvelle planification de congé (congé de remplacement)."
+    },
+    "congé_majoration_enfant": {
+      "Questions": [
+        "Quand est ce que je peux bénéficier d’une majoration de congé pour un enfant à charge ? ",
+        " Congé majoration enfant",
+        "Conditions attribution de la majoration 'enfant à charge'",
+        "majoration de congé "
+      ],
+      "Response": "Conformément à la législation sur la CNSS, le collaborateur peut prétendre à la majoration 'enfant à charge' en ayant la qualité de chef de famille, c’est-à-dire qu’il perçoit des allocations familiales auprès de la CNSS.  "
+    },
+    "congé_majoration_conditions": {
+      "Questions": [
+        "Quelles sont les conditions d’attribution d’une majoration hors saison ? ",
+        "Congé annuel majoration hors saison ",
+        "Conditions majoration hors saison",
+        "Comment bénéficier de la majoration de congé hors saison ? "
+      ],
+      "Response": "Possibilité de bénéficier de jours supplémentaires en prenant un congé en dehors de la période des vacances scolaires, sous réserve de consommer en une seule fois la moitié de ses droits de congé annuels durant les mois concernés par la majoration. "
+    },
+    "congé_majoration_droits": {
+      "Questions": [
+        "J’ai le droit à combien de jours si je prends mon congé en dehors de la période estivale ? ",
+        "Congé annuel majoration hors saison ",
+        "Conditions majoration hors saison",
+        "Comment bénéficier de la majoration de congé hors saison ? "
+      ],
+      "Response": "Selon l'article 62 de la convention collective : \n-> Février 4 jours; \n-> Mars 3 jours;  \n-> Avril 2 jours; \n-> Mai 1 jour; \n-> Octobre 2 jours; \n-> Novembre 3 jours;  \n-> Décembre 4 jours "
+    },
+    "congé_majoration_calcul": {
+      "Questions": [
+        "Comment est calculée la majoration hors saison ? ",
+        "Congé annuel majoration hors saison ",
+        "Calcul majoration hors saison "
+      ],
+      "Response": "La majoration hors saison est calculée en prorata, c’est-à-dire en fonction des jours pris durant le mois concerné par la majoration, elle se calcule automatiquement une fois que la demande de congé est validée par le manager."
+    },
+    "congé_délais_de_route_conditions": {
+      "Questions": [
+        "Quelles sont les conditions d’attribution d’une majoration délai de route ? ",
+        "Congé annuel majoration délai de route",
+        "Documents majoration délai de route"
+      ],
+      "Response": "Les collaborateurs ont droit à une majoration de 7 jours tous les deux ans, à titre de délai de route, à condition d’épuiser la moitié de leur droit de congé en jours ouvrables(*)à l’étranger.  (*) Dimanche et jour férié non décompté.   "
+    },
+    "congé_délais_de_route_procédure": {
+      "Questions": [
+        "Quelles sont les documents nécessaires pour une demande d’attribution d’une majoration délai de route ? ",
+        "Congé annuel majoration délai de route",
+        "Conditions majoration délai de route"
+      ],
+      "Response": "Le collaborateur doit  transmettre à son conseiller administratif les copies des cachets de sortie et d’entrée au territoire national ainsi que la première page contenant ses informations personnelles de son passeport.  "
+    },
+    "congé_pélerinage_condition": {
+      "Questions": [
+        "Quelles sont les conditions d’attribution d’un congé pèlerinage ? ",
+        "Congé pélérinage ",
+        "Conditions du congé pélérinage"
+      ],
+      "Response": "-> Minimum 15 ans d’ancienneté au sein de la banque ; \n-> tiré(e) au sort dans son arrondissement ou caïdat.\n-> Reçu du paiement "
+    },
+    "congé_pélerinage_procédure": {
+      "Questions": [
+        "Quelle est la procédure que je dois suivre pour bénéficier de mon congé pèlerinage ?  ",
+        "Congé pélérinage procédure ",
+        "Comment faire pour demander un congé pélérinage ?"
+      ],
+      "Response": "Le collaborateur doit transmettre à son conseiller administratif une copie des cachets de sortie et d’entrée de son passeport après son retour, qui se chargera de vérifier conditions d’éligibilité et de convertir les 12 jours ouvrables, du congé annuel pris, en congé pélerinage. "
+    },
+    "congé_exceptionnel_définition": {
+      "Questions": [
+        "Qu’est  ce qu’un congé exceptionnel ? ",
+        "Congé exceptionnel ",
+        "Qu'est qu'un congé exceptionnel ? "
+      ],
+      "Response": "Un congé exceptionnel est un congé de courte durée accordé pour des rasions familiales. Il s’agit bien évidement d’une autorisation d’absence suite à un événement survenu.  "
+    },
+    "congé_exceptionnel_evenements_familiaux": {
+      "Questions": [
+        "Quelles sont les événements qui rentrent dans le cadre d’un congé exceptionnel et le nombre de jour y afférent ? ",
+        " Congé exceptionnel ",
+        "Evenement familial congé ",
+        " À Combien de jours de congé ai-je le droit en cas d'événement familial ? (mariage, décès, naissance, baptême, circoncision, opération)"
+      ],
+      "Response": "Veuillez trouver les détails de vos droits aux congés exceptionnels dans le document ci-joint."
+    },
+    "congé_exceptionnel_demande": {
+      "Questions": [
+        "Comment je peux demander un congé exceptionnel ? ",
+        "Congé exceptionnel ",
+        "Demande de congé exceptionnel ",
+        "demander un congé exceptionnel"
+      ],
+      "Response": "Les demandes de congé spéciaux sont saisies par le manager et validées par le conseiller administratif  RH dès réception du justificatif lié à l’événement. "
+    },
+    "mise_en_disponibilité_SS_définition": {
+      "Questions": [
+        "Qu’est qu’une mise en disponibilité sans solde?",
+        "Mise en disponiblité sans solde"
+      ],
+      "Response": "La mise en disponibilité sans solde est un congé par lequel le collaborateur sollicite la suspension provisoire de son contrat pour des raisons multiples (enfant ou ascendant gravement malade, regroupement familiale , étude …), suivant le bulletin médical et sous réserve des vérifications d’usage.  Elle est assimilée à un départ définitif nécessitant la liquidation des droits au congé après réajustement et l’arrêté de la paie. Toutefois, le collaborateur est maintenu sans solde dans l’effectif et sera affecté à la DRH.     "
+    },
+    "mise_en_disponibilité_SS_demande": {
+      "Questions": [
+        "Comment je peux demander  une mise en disponibilité sans solde ?  ",
+        "Mise en disponiblité sans solde",
+        "Demande de mise en disponiblité",
+        "demander ma mise en disponibilité "
+      ],
+      "Response": "Transmettre à son conseiller administratif RH une demande manuscrite en exprimant son besoin et expliquant les motifs de ce départ provisoire.  Il doit également, accompagner sa demande par des justificatifs probants justifiant son souhait. "
+    },
+    "mise_en_disponibilité_SS_validation": {
+      "Questions": [
+        "Comment est validée la demande de mise en disponibilité sans solde ? ",
+        " Mise en disponiblité sans solde",
+        "Demande de mise en disponiblité validée",
+        "Retour demande mise en disponibilité"
+      ],
+      "Response": "Une fois la demande étudiée et validée par la DRH, le conseiller administratif RH matérialise les décisions par une lettre d’accord précisant:  \n-> la durée du congé et la date de reprise; \n-> les conditions de réintégration; \n-> le montant des cotisations sociales ( dans le cas du maintien de la couverture);\n-> le montant des échéances des prêts en cours à rembourser mensuellement. "
+    },
+    "mise_en_disponibilité_SS_prolongation": {
+      "Questions": [
+        "Quelle est de délai réglementaire pour déposer une demande de prolongation d’une mise en disponibilité ? ",
+        "Mise en disponiblité sans solde",
+        " Demande de prolongation de mise en disponiblité ",
+        "Délai de prolongation mise en disponbilité"
+      ],
+      "Response": "Si le collaborateur souhaite prolonger son congé sans solde, il doit soumettre au plus tard 15 jours avant de la date de reprise prévue , une demande de renouvellement de son congé sans solde. Elle sera traitée dans les même conditions que la première demande. "
+    },
+    "mise_en_disponibilité_SS_reprise": {
+      "Questions": [
+        "Quelle est la procédure administrative à suivre dans le cadre d’une reprise d’un congé sans solde ? ",
+        "Mise en disponiblité sans solde",
+        "Reprise suite à une mise en disponiblité ",
+        "Procédure de reprise congé sans solde "
+      ],
+      "Response": "À l’issue de la période accordée pour la mise en disponibilité, le collaborateur est affecté à un poste selon le besoin de la banque. À la date de la reprise prévue, le collaborateur dispose d’un délai de 48h pour reprendre ses fonctions. Le non respect de ce délai peut entrainer la rupture de son contrat et ce conformément aux dispositions légales requises en la matière"
+    }
+  },
+  "Salutation":{
+    "Bonjour": {
+      "Questions": [
+        "Bonjour",
+        "Salut",
+        "Hello",
+        "Coucou"
+      ],
+      "Response": "Bonjour, comment puis-je vous aider ?"
+  },
+  "Au revoir": {
+    "Questions": [
+      "Au revoir",
+      "A bientôt",
+      "A la prochaine",
+      "Bye"
+    ],
+    "Response": "Au revoir, à bientôt"
+
+  },
+  "Merci": {
+    "Questions": [
+      "Merci",
+      "Merci beaucoup",
+      "Merci bien",
+      "Merci bcp"
+    ],
+    "Response": "Je vous en prie, c'est un plaisir de vous aider"
+  }
+  },
+  "Digital RH":{
+    "Portail_ressources_humaines":{
+      "Questions": [
+        "Qu'est ce que le portail RH ?",
+        "Portail RH",
+        "Portail ressources humaines",
+        "Portail RH BMCI",
+        "Portail RH BMCI",
+        "portail digital ressource humaine",
+        "site ressource humaine",
+        "site ressource humaine BMCI"
+
+      ],
+      "Response": "Il existe deux portails pour les ressources humaines :  <a class=\"font-medium text-blue-600  hover:underline\" href=\"https://aboutme.group.echonet\">About Me</a> et  <a class=\"font-medium text-blue-600  hover:underline\" href=\"https://prohras9.rb.echonet/hra-space/portal\">OpenHR9</a>. Pour y accéder il faut être connecté sur votre poste de travail interne BMCI"
+    }
+
+  }
+
+
+
+  
+}
