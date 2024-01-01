@@ -4,6 +4,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import os
+from waitress import serve
 
 app = Flask(__name__)
 
@@ -37,15 +38,22 @@ for parent_intent, child_intents in data.items():
 
 # Load or compute embeddings
 if embeddings_file_exists(embeddings_file):
+    print("Loading embeddings from file...")
     embeddings = load_embeddings(embeddings_file)
+    print("Embeddings loaded successfully.")
 else:
-    # Load the model
-    model = SentenceTransformer("dangvantuan/sentence-camembert-large")
+    print("Loading the model...")
+    model = SentenceTransformer("OrdalieTech/Solon-embeddings-large-0.1")
+    print("Model loaded successfully.")
     # Encode the sentences and save the embeddings
+    print("Encoding sentences...")
     embeddings = model.encode(sentences)
+    print("Sentences encoded successfully.")
     save_embeddings(embeddings_file, embeddings)
 
 def find_most_similar_intents(input_sentence, num_intents=3):
+    input_sentence = "query: " + input_sentence
+
     # Encode the new sentence
     new_embedding = model.encode([input_sentence])
 
@@ -84,6 +92,11 @@ def get_intent():
     return jsonify({"intents": top_intents})
 
 if __name__ == '__main__':
-    # Load the model once during startup
-    model = SentenceTransformer("dangvantuan/sentence-camembert-large")
-    app.run(debug=True)
+   # Load the model once during startup if not already loaded
+    if 'model' not in globals():
+        print("Loading the model for the first time...")
+        model = SentenceTransformer("OrdalieTech/Solon-embeddings-large-0.1")
+        print("Model loaded successfully.")
+
+    # Start the application with Waitress
+    serve(app, host='0.0.0.0', port=5000)
