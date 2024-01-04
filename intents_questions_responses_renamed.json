@@ -1,0 +1,475 @@
+{
+    "Congé_Annuel": {
+        "Questions": [
+            "C'est quoi un congé?",
+            "Comment on définit un congé?",
+            "C'est quoi un congé selon le code de travail?",
+            "Qu'est ce qu'un congé?",
+            "Qu'est ce qu'un congé selon la convention collective?",
+            "Qu'est ce qu'un congé selon la loi?",
+            "Qu'est ce qu'un congé selon le code de travail?",
+            "c'est quoi un congé annuel?",
+            "Qu'est ce qu'un congé annuel?",
+            "Qu'est ce qu'un congé annuel selon le code de travail?",
+            "Qu'est-ce qu'un congé et quand peut-il être pris ?",
+            "Quels événements justifient une interruption de travail sous forme de congé ?",
+            "Quelle est la définition d'un congé selon la convention collective et le code du travail ?",
+            "Après combien de temps de service un collaborateur a-t-il droit à un congé annuel payé ?",
+            "Comment est calculée la durée du congé annuel payé pour les collaborateurs ?",
+            "Quelle est la durée de congé annuel payé à laquelle un collaborateur a droit après six mois de service continu ?",
+            "Est-ce que la durée des congés payés augmente avec l'ancienneté du collaborateur ?",
+            "Comment le congé annuel est-il calculé en fonction du temps de service d'un employé ?"
+        ],
+        "Response": "Un congé est la période pendant laquelle il y a interruption de travail à l'occasion d'une fête, de vacances, d'une maladie ou tout autre événement personnel ou professionnel. \nConformément à la convention collective et au code de travail, tout collaborateur, a droit, après six mois de service continu à un congé annuel payé dont la durée est fixée à un jour et demi par mois de service \n"
+    },
+    "Congé_Annuel_Annulation": {
+        "Questions": [
+            "Est-ce que j'ai le droit d'annuler un congé?",
+            "Puis-je annuler un congé?",
+            "Est ce que je peux annuler mon congé déjà saisi? ",
+            "Est ce que je peux annuler mon congé déjà validé? ",
+            "Puis-je annuler mon congé déjà validé par mon manager?"
+        ],
+        "Response": "Vous pouvez annuler votre demande de congé "
+    },
+    "Congé_Annuel_Conditions": {
+        "Questions": [
+            "Quels sont mes droits de congé ?",
+            "Combien de jours de congé puis-je avoir dans une année?",
+            "Comment sont calculés mes jours de congé?",
+            "Quels sont mes droits de congé annuel?",
+            "Comment sont déterminés les droits aux congés annuels dans notre entreprise ?",
+            "Sur quelles bases les jours de congés annuels sont-ils attribués aux collaborateurs ?",
+            "Y a-t-il des facteurs qui influencent le nombre de jours de congé annuel que je reçois ?",
+            "Comment l'ancienneté et le grade affectent-ils mes jours de congé annuel ?",
+            "Est-ce que le nombre d'enfants que j'ai affecte la quantité de mes congés annuels ?",
+            "Où puis-je trouver plus d'informations sur mes droits de congé annuel ?",
+            "Peut-on obtenir des jours de congé supplémentaires en fonction de la situation familiale ?"
+        ],
+        "Response": "Les droits aux congés annuels sont fixés par la convention collective. Les jours de congés annuels sont attribués aux collaborateurs en début d’année selon le grade et l’ancienneté avec une majoration liée au nombre d’enfant. \nPour plus de détails visitez la page \"Mes Congé\" rubrique \"Mes droits\""
+    },
+    "Congé_Annuel_Consultation": {
+        "Questions": [
+            "Ou puis-je consulter mes droits de congé?",
+            "Comment je peux consulter mes droits de congé?",
+            "Ou sont affichés mes droits de congé?",
+            "Comment puis-je consulter mes droits de congé ?",
+            "Où trouver les informations sur mes droits de congé dans l'espace OPENHR ?",
+            "Quelle est la procédure pour accéder à mes informations de congé sur OPENHR ?",
+            "Dans quelle rubrique de OPENHR puis-je consulter mes soldes de congé ?",
+            "Quelles étapes dois-je suivre pour vérifier mes droits de congé dans OPENHR ?",
+            "Où puis-je trouver les détails de mes soldes de congé dans l'espace OPENHR ?",
+            "Comment accéder à la rubrique 'Consultation des soldes' dans OPENHR ?",
+            "Quelle est la méthode pour consulter mes droits de congé sur le portail OPENHR ?"
+        ],
+        "Response": "Pour consulter vos droits de congé, vous devez accéder à votre espace OPENHR, rubrique \"Consultation des soldes\""
+    },
+    "Congé_Annuel_Demarche": {
+        "Questions": [
+            "Comment je dois saisir mes congés ",
+            "A qui dois je m'adresser pour demander un congé?",
+            "Je veux prendre un congé, comment procéder?",
+            "Quelle est la démarche à suivre pour demander un congé?",
+            "Comment faire pour une demande de congé?",
+            "Comment je saisis mes demandes de congé ?",
+            "Où saisir mon congé ?",
+            "Quelles sont les étapes à suivre pour faire une demande de congé ?",
+            "Comment dois-je procéder pour obtenir l'accord de mon manager pour un congé ?",
+            "Où dans l'espace OPEN HR puis-je faire une demande de congé ?",
+            "Quel est le processus pour saisir la période de mon congé dans OPEN HR ?",
+            "Comment m'assurer que ma demande de congé a été validée par mon manager ?",
+            "Quelles actions dois-je entreprendre avant de commencer mon congé ?",
+            "Quel est le processus d'approbation pour une demande de congé dans OPEN HR ?",
+            "Comment puis-je confirmer l'approbation de ma demande de congé par mon manager ?"
+        ],
+        "Response": "Pour faire une demande de congé, vous suivez les étapes ci-dessous:\nVous vous mettez en accord avec votre manager sur la période de votre congé \nVous accédez à votre espace OPEN HR rubrique \"Demande de congé\" et vous saissez la période de congé\nVous vous assurez de la validation de votre demande par votre manager avant l'entame de votre congé"
+    },
+    "Congé_Annuel_Evolution": {
+        "Questions": [
+            "Quels sont les modalités d’évolution des mes droits de congé ?",
+            "Est-ce que mon droit de congé est satble ou évolue?",
+            "Comment mes droits de congé peuvent évoluer?",
+            "Evolution des droits de congé",
+            "Est-ce que mes droits de congé évoluent?",
+            "Quels facteurs influencent l'évolution des droits de congé ?",
+            "Comment l'ancienneté, le grade et les enfants à charge affectent-ils les droits de congé ?",
+            "Quand l'évolution des droits de congé est-elle généralement accordée chaque année ?",
+            "Comment est calculée la majoration pour les enfants à charge dans les droits de congé ?",
+            "Quel est le nombre maximum de jours supplémentaires accordés pour les enfants à charge ?",
+            "Existe-t-il une limite maximale pour la durée totale des congés annuels ?",
+            "Quelle est la durée maximale des congés ouvrables qu'un employé peut accumuler par an ?",
+            "Comment les droits de congé évoluent-ils d'une année à l'autre en fonction des critères spécifiés ?"
+        ],
+        "Response": "Les droits de congé évoluent en foncion  de trois paramètres : l’ancienneté, le grade et l’enfant à charge.\nCette évolution est accordée pratiquement le 1 er janvier de l’année N+1.  \nLa majoration enfant à charge est d’un jour par enfant avec un maximum de 4 jours. A noter que la durée totale ne peut en aucun cas excéder 31 jours ouvrables par an."
+    },
+    "Congé_Maternité": {
+        "Questions": [
+            "Quels sont mes droits de congé maternité?",
+            "Quels sont mes droits de congé maternité ?",
+            "Comment sont gérés les congés maternité ?",
+            "Quelle est la procédure en cas d'absence liée à une grossesse ?",
+            "C'est quoi un congé de maternité ?",
+            "Congé de maternité, mes droits",
+            "Comment je calcule mes droits de congé de maternité?",
+            "Je suis enceinte, quels sont mes droits?",
+            "Je suis enceinte, comment je calcule mon congé?",
+            "Congé maternité, quels sont mes droits?",
+            "Quels sont mes droits en congés de maternité?",
+            "Maternité congé",
+            "Quelle est la durée du congé maternité ?",
+            "Combien de jours dure le congé prénatal pour les employées du secteur bancaire ?",
+            "Quelle est la durée du congé post-natal accordé aux collaboratrices du secteur bancaire ?",
+            "Comment fonctionne le congé en demi-solde pour les employées enceintes dans le secteur bancaire ?",
+            "Quelles sont les options de congé disponibles pour une employée enceinte dans le secteur bancaire ?",
+            "Peut-on prolonger le congé maternité dans le secteur bancaire et sous quelles conditions ?"
+        ],
+        "Response": "\n\nEn tant que collaboratrice du secteur bancaire, vous avez droit à:\nUn congé prénatal (avant accouchement):  45 Jours.\nUn congé post-natal (après accouchement):  90 jours.\nUn congé en demi solde pour une durée maximum de 6 mois. A la demande\nUn congé sans solde pour une durée maximum de 6 mois. A la demande."
+    },
+    "Congé_Maternité_Allaitement": {
+        "Questions": [
+            "Quand est ce que je peux bénéficier de mon heure d’allaitement ?",
+            "Heure allaitement droits",
+            "Est-ce que j'ai droit à l'heure d'allaitement?",
+            "Combien dure le droit à l'heure d'allaitement ?",
+            "Quand je peux prendre mon heure d'allaitement ? ",
+            "C'est quoi l'heure d'allaitement ? ",
+            "Quel avantage spécifique une collaboratrice BMCI a-t-elle à la reprise de son congé de maternité ?",
+            "Combien de temps dure le droit à l'heure d'allaitement accordé aux collaboratrices BMCI après leur congé de maternité ?",
+            "À partir de quand l'heure d'allaitement quotidienne est-elle disponible pour une collaboratrice BMCI ?",
+            "Comment est traitée l'heure d'allaitement en termes de rémunération pour les collaboratrices BMCI ?",
+            "Peut-on utiliser l'heure d'allaitement à n'importe quel moment de la journée de travail ?",
+            "Quelles sont les conditions pour bénéficier de l'heure d'allaitement chez BMCI ?",
+            "Comment une collaboratrice BMCI peut-elle planifier l'utilisation de son heure d'allaitement quotidienne ?",
+            "Est-ce que l'heure d'allaitement est considérée comme du temps de travail rémunéré chez BMCI ?"
+        ],
+        "Response": "En tant que collaboratrice BMCI vous bénéficiez  à votre reprise d'un congé de maternité d'une heure d'allaitement pendant une année à compter du premier jour de reprise du congé post natal. Ce temps vous est accordé afin de vous permettre d’allaiter votre enfant, il est rémunéré comme temps de travail. \nVous pouvez bénéficier de cette heure d’allaitement à tout moment pendant la journée de travail."
+    },
+    "Congé_Maternité_Allaitement_Demarche": {
+        "Questions": [
+            "Quelles sont les conditions d'octroi de l'heure d’allaitement ?",
+            "Comment puis-je bénficier de l'heure d'allaitement?",
+            "Heure allaitement conditions",
+            "Comment je peux prendre mon heure d'allaitement? ",
+            "Quelles sont les conditions pour bénéficier de l'heure d'allaitement après un congé de maternité ?",
+            "Quel type de document est requis pour demander l'heure d'allaitement auprès du conseiller administratif RH ?",
+            "Comment obtenir un certificat d'allaitement pour l'heure d'allaitement après un congé de maternité ?",
+            "Quel est le rôle du responsable hiérarchique dans l'approbation de l'heure d'allaitement ?",
+            "Quelles démarches une collaboratrice doit-elle entreprendre pour bénéficier de l'heure d'allaitement ?",
+            "Avec qui doit-on s'accorder pour organiser l'heure d'allaitement au travail ?",
+            "Comment peut-on formaliser la demande d'heure d'allaitement après un congé de maternité ?",
+            "Quelles étapes faut-il suivre pour mettre en place l'heure d'allaitement avec son employeur ?"
+        ],
+        "Response": "Pour bénficier de l'heure d'allaitement à la reprise de votre congé de maternité réglementaire vous devez:\nFournir au conseiller administratif RH un certificat d’allaitement délivré par votre médecin,\nVous mettre en accord avec son responsable hiérarchique.\n"
+    },
+    "Congé_Maternité_Elligibilité": {
+        "Questions": [
+            "Quels sont les droits de congé de maternité en tant que non titulaire ?",
+            "En tant que non titulaire, ai-je le droit d'avoir un congé de maternité?",
+            "Est-ce que je peux bénéficier d'un congé de maternité si je ne suis pas titulaire?",
+            "Congé de maternité non titulaire",
+            "Je ne suis pas titulaire, quels sont mes droits en congé maternité?",
+            "Comment je calcule mes droits de congé maternité si je ne suis pas titualire?",
+            "Quelle est la durée du congé maternité en tant que non titulaire?",
+            "Quels sont les droits des collaboratrices non-titulaires affiliées à la CNSS en matière de congé post-natal ?",
+            "Les collaboratrices sous contrat ANAPEC ont-elles droit à des indemnités pendant leur congé de maternité ?",
+            "Quelles indemnités sont accordées par la CNSS aux collaboratrices non-titulaires pendant le congé post-natal ?",
+            "Quelle est la différence de traitement entre les collaboratrices affiliées à la CNSS et celles sous contrat ANAPEC en termes de congé de maternité ?",
+            "Les collaboratrices non-titulaires affiliées à la CNSS reçoivent-elles des indemnités journalières pendant leur congé post-natal ?",
+            "Quels sont les droits de congé de maternité pour une collaboratrice sous contrat ANAPEC ?",
+            "En quoi les droits de congé post-natal diffèrent-ils pour les collaboratrices affiliées à la CNSS par rapport à celles sous contrat ANAPEC ?",
+            "Les collaboratrices non-titulaires affiliées à la CNSS bénéficient-elles d'avantages spécifiques pendant leur congé de maternité ?"
+        ],
+        "Response": "\nEn tant que collaboratrice non-titulaire affiliée à la CNSS vous avez droits à des indemnités journalières de la CNSS pendant le congé post-natal.  \nEn tant que collaboratrice sous contrat ANAPEC (non affiliées à la CNSS), vous n'avez droit à aucune indemnité pendant le congé de maternité.\n\n\n"
+    },
+    "Congé_Maternité_IJM_Calcul": {
+        "Questions": [
+            "Comment est calculé le montant des IJM maternité ?",
+            "Comment est calculé la durée des IJM maternité?",
+            "Comment je peux calculer le montant remboursé par les IJM?",
+            "IJM calcul",
+            "IJM durée",
+            "IJM montant",
+            "Quels sont les avantages offerts par la CNSS pour une collaboratrice BMCI en congé de maternité ?",
+            "Combien de temps dure le remboursement des indemnités journalières de maternité par la CNSS ?",
+            "Quel est le montant des indemnités journalières de maternité versées par la CNSS pour une collaboratrice BMCI ?",
+            "Comment est calculé le montant des indemnités journalières de maternité de la CNSS ?",
+            "Sur quelle période le salaire est-il pris en compte pour le calcul des indemnités journalières de maternité ?",
+            "Quelles sont les conditions de remboursement des indemnités journalières de maternité par la CNSS pour une collaboratrice en congé de maternité ?",
+            "Quelle est la durée maximale de versement des indemnités journalières de maternité par la CNSS ?",
+            "Comment la CNSS détermine-t-elle le montant à rembourser pour les indemnités journalières de maternité ?"
+        ],
+        "Response": "En tant que collaboratrice BMCI en congé de maternité, vous bénficiez de la part de la CNSS dans le cadre de remboursement des indemnités journalières maternité de: \nDurée : 14 semaines (98 jours).\nMontant : 100% du salaire journalier moyen soumis à cotisation (plafonné) et perçu pendant les six derniers mois précédant l’arrêt du travail rendu nécessaire par la proximité de l’accouchement.\n"
+    },
+    "Congé_Maternité_IJM_Conditions": {
+        "Questions": [
+            "Qu'est ce que l'IJM ? (rajouter une définition + des formulations avec 'Indemnités journalières de maladie'  dans les questions",
+            "Quelles sont les conditions d’octroi des IJM maternité ?",
+            "IJM maternité droits (reformuler en phrase / questions ) ",
+            "Est-ce que j'ai droit aux IJM maternité?",
+            "Qui est concerné par les IJM maternité",
+            "Qui a le droit aux IJM maternité?",
+            "Règles d'octroi d'une IJM?",
+            "Droits aux IJM maternité",
+            "Quelles sont les conditions requises pour obtenir les indemnités journalières de maternité (IJM) ?",
+            "Qu'est-ce qu'une salariée doit faire pour être éligible aux IJM maternité auprès de la CNSS ?",
+            "Combien de jours de cotisations sont nécessaires pour prétendre aux IJM maternité ?",
+            "Quelle est la période de cotisation requise pour l'éligibilité aux IJM maternité ?",
+            "Quels critères une salariée doit-elle remplir pour recevoir les IJM maternité de la CNSS ?",
+            "Comment justifier les jours de cotisation nécessaires pour les IJM maternité ?",
+            "Quelles sont les exigences de cotisation à la CNSS pour les IJM maternité ?",
+            "Combien de temps avant l'arrêt de travail pour accouchement doit-on cotiser pour être éligible aux IJM maternité ?"
+        ],
+        "Response": "Les conditions d’octroi des IJM maternité sont :  \nÊtre salariée immatriculée à la CNSS,\nJustifier d'au moins 54 jours de cotisations pendant les 10 derniers mois d'immatriculation précédant la date de l’arrêt de travail pour accouchement.\n"
+    },
+    "Congé_Maternité_IJM_Delais": {
+        "Questions": [
+            "Quel est le délai de dépôt de mon dossier maternité à la CNSS ?",
+            "A quel moment dois-je déposer mon dossier CNSS?",
+            "Quel est le délai pour constituer mon dossier CNSS?",
+            "Quand est ce que je dois déclarer mon congé de maternité à la CNSS ?",
+            "Temps de traitement du dossier CNSS dans le cas de maternité?",
+            "Combien de temps prend le traitement du doosier maternité auprès de la CNSS?",
+            "Quel est le délai maximum pour déposer un dossier de maternité à la CNSS après l'accouchement ?",
+            "Combien de temps a-t-on après la date d'accouchement pour soumettre le dossier de maternité à la CNSS ?",
+            "Quelle est la période limite pour le dépôt du dossier de maternité auprès de la CNSS ?",
+            "Quelles sont les conséquences de ne pas respecter le délai de 30 jours pour le dépôt du dossier de maternité à la CNSS ?",
+            "Comment le délai de dépôt du dossier de maternité est-il calculé par rapport à la date d'accouchement ?",
+            "Quels sont les impératifs de temps pour soumettre un dossier de maternité à la CNSS ?",
+            "Dans quel délai un dossier de maternité doit-il être complété et déposé à la CNSS après l'accouchement ?",
+            "Est-il possible de demander une extension du délai de dépôt pour un dossier de maternité à la CNSS ?"
+        ],
+        "Response": "Pour le dépôt du dossier de maternité auprès de la CNSS il faut respecter un délai de moins de 30 jours à compter de la date d’accouchement"
+    },
+    "Congé_Maternité_IJM_Documents ": {
+        "Questions": [
+            "Quelles sont les pièces à fournir pour déposer un dossier IJM maternité auprès de la CNSS?",
+            "Comment procéder pour déposer mon dossier IJM?",
+            "De quoi se compose un dossier IJM?",
+            "De quoi est constitué un dossier IJM maternité?",
+            "Documents à fournir pour constituer un dossier IJM",
+            "Papiers à fournir pour un dossier IJM",
+            "Quels documents sont nécessaires pour constituer un dossier IJM maternité ?",
+            "Comment remplir le formulaire de demande pour les IJM maternité ?",
+            "Quels types d'identification sont requis pour le dossier IJM maternité si la CIN n'a pas été déposée auparavant à la CNSS ?",
+            "Quelle est la nécessité de l'attestation RIB ou du spécimen de chèque dans le dossier IJM maternité ?",
+            "Quel document faut-il fournir pour prouver la naissance dans le dossier IJM maternité ?",
+            "Dans quel cas un certificat de décès est-il requis pour le dossier IJM maternité ?",
+            "Quelles sont les pièces à fournir pour les étrangers lors de la constitution du dossier IJM maternité ?",
+            "Comment procéder si on n'a pas encore déposé certains documents à la CNSS pour le dossier IJM maternité ?"
+        ],
+        "Response": "Pour procéder à la constitution de votre dossier IJM maternité, vous devez préparer les documents ci dessous:\nFormulaire de la demande IJM dûment renseigné ; \nCopie de la CIN (si le dépôt n’est pas fait auparavant à la CNSS) (ou copie de la Carte Résidence / copie du Passeport pour les étrangers) ;\nAttestation RIB ou spécimen de chèque (si le dépôt n’est pas fait auparavant à la CNSS) ;\nExtrait d’acte de naissance ou, à défaut, un certificat de naissance délivré par le médecin ;\nCertificat de décès en cas de décès du nouveau-né.\n"
+    },
+    "Congé_Maternité_IJM_Démarche": {
+        "Questions": [
+            "Ou est ce que je dois déposer mon dossier CNSS?",
+            "Ou est ce que je dois déposer mon dossier IJM maternité?",
+            "Ou dois-je déposer mon dossier CNSS?",
+            "A quel niveau je dois déposer mon dossier CNSS?",
+            "Comment doit-on procéder pour déposer un dossier de maternité auprès de la CNSS ?",
+            "Quel est le lien pour accéder à la plateforme TAAWIDATY pour le dépôt du dossier de maternité ?",
+            "Quel est le délai imparti pour déposer un dossier de maternité sur la plateforme TAAWIDATY ?",
+            "À partir de quelle date le délai de 30 jours pour le dépôt du dossier de maternité est-il calculé ?",
+            "Quelles pourraient être les conséquences si le dossier de maternité n'est pas déposé dans les 30 jours ?",
+            "Est-il possible de déposer un dossier de maternité après le délai de 30 jours sur TAAWIDATY ?",
+            "Quelles sont les étapes à suivre pour soumettre un dossier de maternité sur TAAWIDATY ?",
+            "Comment éviter le rejet de la demande de maternité sur la plateforme TAAWIDATY ?"
+        ],
+        "Response": "Pour déposer votre dossier de maternité, vous devez accéder à la plateforme TAAWIDATY via le lien  https://taawidaty.cnss.ma/ et ce dans un délai de 30 jours à compter du 1er jour de l’arrêt afin d’éviter le rejet de la demande"
+    },
+    "Congé_Matérnité_Demarche": {
+        "Questions": [
+            "Quelle la procédure que  je dois suivre si je suis à 7 mois et demi de grossesse?",
+            "Grossesse procédure ?",
+            "Quand dois-je déclarer ma grossesse ?",
+            "Je suis à 7 mois et demi de grossesse , que faire?",
+            "Je suis enceinte, comment procéder ?",
+            "Comment déclarer ma grossesse ?",
+            "Maternité procédure",
+            "Je suis enceinte, quoi faire?",
+            "Maternité comment procéder",
+            "Maternité, comment procéder?",
+            "Sortie en matérnité procédure",
+            "Quels documents une collaboratrice enceinte doit-elle fournir à son conseiller administratif RH ?",
+            "À quel moment de la grossesse doit-on remettre un certificat de grossesse au conseiller administratif RH ?",
+            "Quelles informations personnelles sont requises par le conseiller administratif RH pour une collaboratrice enceinte ?",
+            "Quand une collaboratrice enceinte doit-elle fournir un certificat de grossesse de 7 mois et demi ?",
+            "Quels sont les prérequis pour entamer le congé prénatal pour une collaboratrice enceinte ?",
+            "Comment doit-on informer le conseiller administratif RH de sa grossesse dans l'entreprise ?",
+            "Quelles étapes une employée enceinte doit-elle suivre pour notifier sa grossesse à son employeur ?",
+            "Quels documents spécifiques sont nécessaires pour une demande de congé prénatal ?"
+        ],
+        "Response": "En tant que collaboratrice enceinte vous devez remettre à votre conseiller administratif RH:\nUn certificat de grossesse de 3 mois \nUn certificat de grossesse de 7 mois et demi pour entamer le congé prénatal\nVos coordonnées personnelles: Téléphone, adresse mail personnelle."
+    },
+    "Congé_Matérnité_Documents": {
+        "Questions": [
+            "Quels sont les documents que je dois fournir après l’accouchement ? ",
+            "Quels sont les papiers à fournir après accouchement?",
+            "Comment constituer le dossier d'accouchement?",
+            "Pièces à fournir pour le congé de maternité",
+            "Quelles sont les pièces à fournir pour mon dossier accouchement ?",
+            "Documents accouchement",
+            "Dossier accouchement",
+            "De quoi se compose le dossier accouchement?",
+            "Quelles démarches une collaboratrice doit-elle effectuer après son accouchement auprès du conseiller administratif RH ?",
+            "Quel document est nécessaire pour informer le conseiller administratif RH après l'accouchement ?",
+            "Comment procéder pour le dépôt des indemnités journalières maladie auprès de la CNSS après l'accouchement ?",
+            "Quelles sont les étapes à suivre après l'accouchement pour une collaboratrice en matière de démarches administratives ?",
+            "Quel est le rôle du certificat de naissance dans les démarches post-accouchement avec le conseiller administratif RH ?",
+            "Comment une collaboratrice doit-elle notifier son accouchement à son employeur ?",
+            "Quelles actions doivent être prises après l'accouchement concernant les indemnités journalières de la CNSS ?",
+            "Après l'accouchement, comment une employée doit-elle informer son employeur et gérer les indemnités de la CNSS ?"
+        ],
+        "Response": "A l'issue de votre accouchement vous devez informer  votre conseiller administratif RH en lui communicant un certificat de naissance et entamer les démarches de dépôt des indemnités journalières maladie auprès de la CNSS. \n\n"
+    },
+    "Congé_Matérnité_Interruption_Demarche": {
+        "Questions": [
+            "Dans le cas ou je souhaite interrompre mon congé demi solde ou sans solde quelle est la procédure à suivre ?  ",
+            "Je souhaite interrompre mon congé demi solde comment procéder?",
+            "Je veux arrêter mon congé demi solde, quoi faire?",
+            "Je veux interrompre mon congé demi solde, quoi faire?",
+            "Ai-je le droit d'interrompre mon congé demi solde ",
+            "Je souhaite interrompre mon congé sans solde comment procéder?",
+            "Je veux arrêter mon congé sans solde, quoi faire?",
+            "Je veux interrompre mon congé sans solde, quoi faire?",
+            "Ai-je le droit d'interrompre mon congé sans solde ",
+            "Interruption congé sans solde, procédure à suivre",
+            "Que faire pour interrompre mon congé sans solde?",
+            "Que faire pour interrompre mon congé demi solde?",
+            "Quelle est la procédure pour interrompre un congé demi-solde ou sans solde ?",
+            "À qui doit-on s'adresser pour arrêter un congé demi-solde ou sans solde ?",
+            "Quel est le rôle du conseiller RH dans l'interruption d'un congé demi-solde ou sans solde ?",
+            "Comment les informations sur l'interruption d'un congé demi-solde ou sans solde sont-elles communiquées aux services concernés ?",
+            "Quelles corrections sont nécessaires en termes de congé annuel et de traitement du salaire lors de l'interruption d'un congé demi-solde ou sans solde ?",
+            "Comment est gérée la nouvelle affectation d'un collaborateur après l'interruption d'un congé demi-solde ou sans solde ?"
+        ],
+        "Response": "Si vous souhaiter interrompre votre congé demi ou sans solde, vous devez informer votre conseiller RH qui prendra en charge éventuellement votre nouvelle affectation. Aussi, il informera le conseiller administratif ainsi que le service paie afin d’interrompre le congé demi solde ou sans solde en apportant les corrections nécessaires en terme de congé annuel et de traitement du salaire. "
+    },
+    "Congé_Matérnité_Prenatal": {
+        "Questions": [
+            "Qu'est ce que le congé prénatal ? ",
+            "Quelle est la durée du congé prénatal?",
+            "Maternité congé prénatal ?",
+            "Congé prénatal",
+            "J'ai accouché avant terme, ai-je droit au congé prénatal?",
+            "C'est quoi un congé prénatal ?",
+            "Comment je calcule mon congé prénatal ?",
+            "Quelle est la période couverte par le congé prénatal pour les collaboratrices enceintes ?",
+            "Comment est déterminée la durée du congé prénatal pour une collaboratrice enceinte ?",
+            "Qu'advient-il du congé prénatal si une collaboratrice accouche avant terme ?",
+            "Quelle est la durée maximale du congé prénatal accordé aux collaboratrices enceintes ?",
+            "Dans quelles circonstances le congé prénatal de 45 jours n'est-il pas applicable ?",
+            "Combien de temps dure le congé de maternité pour les collaboratrices qui accouchent prématurément ?",
+            "Quelles sont les règles concernant le congé prénatal et postnatal en cas d'accouchement avant terme ?",
+            "Comment la date du certificat de grossesse influence-t-elle la période du congé prénatal ?"
+        ],
+        "Response": "Le congé prénatal s’étale de la date mentionnée dans le certificat de 7 mois et demi de grossesse jusqu’à la date d’accouchement. La durée totale du congé prénatal est majorée à 45 jours. \nLes collaboratrices qui accouchent avant terme bénéficient du congé de maternité de 90 jours. Le congé prénatal de 45jours n’étant pas dû.\n"
+    },
+    "Congé_Matérnité_Prolongation_Documents": {
+        "Questions": [
+            "Quels sont les documents nécessaires pour une demande de congé demi solde?  ",
+            "Quels sont les documents nécessaires pour une demande de congé sans solde?  ",
+            "Quel sont les documents pour prolonger le congé de maternité?",
+            "Comment faire une demande de congé demi solde?",
+            "Comment faire une demande de congé sans solde?",
+            "Congé demi solde documents",
+            "Congé sans solde documents",
+            "Congé sans solde ?",
+            "Prolongation congé de maternité",
+            "Comment puis-je prolonger un congé de maternité?",
+            "Quels documents sont nécessaires pour bénéficier d'un congé en demi-solde ou sans solde ?",
+            "Quelle est la nature de la demande de prolongation requise pour un congé demi-solde ou sans solde ?",
+            "De quel type de certificat a-t-on besoin pour une demande de congé demi-solde ou sans solde ?",
+            "Qui doit fournir le certificat d’allaitement pour une demande de congé prolongé ?",
+            "Quel rôle joue le conseiller administratif dans la demande de congé demi-solde ou sans solde ?",
+            "Comment l'accord pour un congé demi-solde ou sans solde est-il formalisé ?",
+            "Quelles informations la lettre du conseiller administratif doit-elle contenir pour un congé prolongé ?",
+            "Quel est le processus de demande pour prolonger un congé de maternité en demi-solde ou sans solde ?"
+        ],
+        "Response": "Pour bénficier du congé demi solde ou sans solde, vous devez fournir:\nUne demande de prolongation manuscrite\nUn certificat d’allaitement émanent du gynécologue ou du pédiatre\nL'accord est matérialisé par une lettre établie par le conseiller administratif, précisant la durée et la date de reprise\n"
+    },
+    "Congé_Matérnité_Prolongation_Démarche": {
+        "Questions": [
+            "Quel est le délai durant le quel je dois aviser mon employeur pour bénéficier de mon congé demi solde ?  ",
+            "Quel est le délai durant le quel je dois aviser mon employeur pour bénéficier de mon congé sans solde ?  ",
+            "Qaund dois-je demander un congé demi solde?",
+            "Qaund dois-je demander un congé sans solde?",
+            "Délai de prolongation de mon congé de maternité",
+            "Quel sont les délais de congé dans le cas de maternité?",
+            "Demi solde",
+            "Congé demi solde ",
+            "Quel est le délai pour soumettre une demande de congé demi-solde ou sans solde ?",
+            "Quelles informations faut-il inclure dans une demande de congé demi-solde ou sans solde ?",
+            "Comment et quand demander une prolongation de congé de maternité en demi-solde ou sans solde ?",
+            "Quels sont les critères pour bénéficier d'un congé demi-solde ou sans solde après un congé de maternité ?",
+            "Quelle est la procédure pour demander un congé demi-solde ou sans solde à la suite d'un congé de maternité ?",
+            "Quand doit-on formuler une demande pour prolonger le congé de maternité en demi-solde ou sans solde ?",
+            "Comment spécifier la durée et la date de reprise lors d'une demande de congé demi-solde ou sans solde ?",
+            "Quelles sont les étapes à suivre pour prolonger un congé de maternité en demi-solde ou sans solde ?"
+        ],
+        "Response": "Pour bénficier du congé demi solde ou sans solde, vous devez formuler votre demande au plus tard 15 jours avant la fin du congé de maternité en précisant le nombre de mois souhaités ainsi que la date de reprise.\n"
+    },
+    "Congé_Matérnité_Prolongation_Impact": {
+        "Questions": [
+            "Est-ce que mes droits au congé annuel seront impactés si jamais je demande une prolongation conventionnelle de mon congé maternité? ",
+            "Prolongation maternité et droits aux congés ",
+            "Est-ce que je peux demander un congé anuuel après une prolongation de congé de maternité?",
+            "Impact de la prolongation du congé maternité sur mon congé annuel ",
+            "Est-ce que mon congé annuel est impacté suite à une prolongation de congé de maternité? ",
+            "Comment dois-je consommer mon congé annuel après mon congé de maternité?",
+            "Comment est géré mon congé annuel suite à un congé de maternité",
+            "Quelles sont les conséquences sur le solde de congé annuel si une collaboratrice demande un congé maternité en demi-solde ou sans solde ?",
+            "Comment est géré le solde de congé annuel d'une collaboratrice lorsqu'elle prend un congé maternité en demi-solde ou sans solde ?",
+            "Qu'implique la liquidation d'une partie du solde de congé annuel en cas de congé maternité en demi-solde ou sans solde ?",
+            "Quels congés doivent être consommés par une collaboratrice qui prend un congé maternité en demi-solde ou sans solde ?",
+            "Comment l'ajustement du reliquat de congé est-il calculé pour une collaboratrice en congé maternité en demi-solde ou sans solde ?",
+            "Y a-t-il un ajustement sur les droits de congé annuel pour une collaboratrice en congé maternité en demi-solde ou sans solde ?",
+            "Quelle est la procédure pour la gestion des congés annuels lors d'un congé maternité en demi-solde ou sans solde ?",
+            "Comment la période de non-présence affecte-t-elle le solde de congé annuel d'une collaboratrice en congé maternité en demi-solde ou sans solde ?"
+        ],
+        "Response": "Dans le cas où la collaboratrice demande un congé maternité  demi solde et/ou sans solde , une partie de son solde de congé annuel sera liquidé. C’est-à-dire qu'elle doit consommer les droits de congé de l’année écoulée et de la période post-natal. Un ajustement du reliquat de congé sera exécuté en fonction de la période de non présence de l’intéressée.\nA revoir sur Procédure \n"
+    },
+    "Congé_Matérnité_Salaire": {
+        "Questions": [
+            "Quels sont les modalités de  traitement du salaire dans le cadre d’une maternité ? ",
+            "Comment est calculé le salaire pendant une maternité?",
+            "Est-ce que mon salaire est impacté pendant mon congé de maternité?",
+            "Je suis en maternité , comment sera calculé mon salaire?",
+            "Salaire en maternité ",
+            "Quel est l'impact de ma prime si je prolonge mon congé de maternité ?",
+            "Quelles sont les conditions pour bénéficier du plein traitement du salaire pendant le congé prénatal et post-natal chez BMCI ?",
+            "Comment une collaboratrice enceinte peut-elle demander les indemnités journalières de maternité auprès de la CNSS ?",
+            "Quel est le rôle du conseiller administratif dans le suivi des indemnités journalières de maternité (IJM) ?",
+            "Que se passe-t-il une fois que les indemnités journalières de maternité sont encaissées par la CNSS ?",
+            "Comment la banque gère-t-elle le débit et le crédit des indemnités journalières de maternité ?",
+            "Quelle est la procédure si les indemnités journalières de maternité ne sont pas encaissées dans les 3 mois ?",
+            "Quelles démarches une collaboratrice enceinte doit-elle suivre pour assurer le traitement de son salaire pendant son congé de maternité ?",
+            "Comment BMCI récupère-t-elle le montant des indemnités journalières de maternité si elles ne sont pas perçues à temps ?"
+        ],
+        "Response": "En tant que collaboratrice BMCI en état de grossesse, vous bénéficiez durant votre congé prénatal et post -natal du plein traitement du salaire à condition que vous déposez une demande des indemnités journalière de maternité auprès de la CNSS.\nLe conseiller administratif effectue un suivi régulier de la perception des IJM. Une fois que les IJM sont encaissées par la CNSS, la banque débite le montant correspondant. A défaut, la banque récupère automatiquement le montant équivalent aux IJM, après une période de 3 mois à compter de la date d’interruption de travail."
+    },
+    "Congé_Paternité": {
+        "Questions": [
+            "J'ai droit à un congé de paternité ?",
+            "Je viens d'avoir un enfant est ce que j'ai droit à un congé?",
+            "Ma femme vient d'accoucher est ce que j'ai le droit à un congé?",
+            "Quelle est la durée du congé accordé aux collaborateurs BMCI à la naissance de leur enfant ?",
+            "En tant que collaborateur BMCI, de combien de jours de congé dispose-t-on pour la naissance d'un enfant ?",
+            "Quels sont les droits de congé pour les nouveaux parents travaillant chez BMCI ?",
+            "Combien de temps un collaborateur BMCI peut-il prendre de congé à l'occasion de la naissance de son enfant ?",
+            "Quelle est la politique de BMCI concernant le congé de paternité ?",
+            "Les collaborateurs BMCI reçoivent-ils un congé spécial pour la naissance d'un enfant ?",
+            "Quelle est la durée du congé paternité chez BMCI ?",
+            "Comment BMCI accommode-t-elle les collaborateurs qui deviennent parents ?"
+        ],
+        "Response": "En tant que collaborateur BMCI, vous bénificiez d'un congé de 3 jours à la naissance de votre enfant."
+    },
+    "Congé_Paternité_Démarche": {
+        "Questions": [
+            "Comment puis-je bénéficier d'un congé de paternité?",
+            "Je viens d'avoir un enfant comment procéder pour avoir mon congé de paternité?",
+            "A qui dois-je m'adresser pour demander un congé paternité"
+            
+        ],
+        "Response": "Pour bénéficier de votre congé de paternité, vous devez l'annoncer à votre manager qui procédera à la saisie de ce congé sur le portail RH OPENHR."
+    }
+    }
